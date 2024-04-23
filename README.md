@@ -45,5 +45,44 @@ The conference main topics are:
 - AI/GenAI when supporting public/personal/mental health, challenges in sports injury rehabilitation and social care
 - AI powered devices in medicine, healthcare, autonomous learning, smart transportation, governance and exercising democracy.
 
+## Important Information
 
+### Important dates
 
+- May 15, 2024: Start of Abstract and Paper Submission
+- June 15, 2024: Deadline for Abstract and Paper Submission
+- July 7, 2024: Notification of Acceptance
+- July 21, 2024: Submission deadline for the final submission
+- July 31, 2024: Early bird registration
+- August 31, 2024: Late registration
+
+### Conference venue
+
+- [Zanhotel Europe](https://www.zanhotel.it/hotel-europa-bologna), Bologna, Italy
+
+### Submission Information
+
+- Submitted papers should ideally have 6-8 pages (max 10) including references.
+- They can be position papers, work in progress submissions, and papers.
+- Papers should be submitted to EasyChair.
+- The conference proceedings will be published by Sprigner.
+
+### Program Committee Chairs
+
+- Elisabetta Ronchieri, elisabetta.ronchieri@cnaf.infn.it
+- Sang Suh, Sang.Suh@tamuc.edu
+- Radmila Juric, radjur3@gmail.com
+- Patrick Then, pthen@swinburne.edu.my
+- John Carbone, John.Carbone@forcepointgov.com
+- Ali Hikmet Dogru, AliHikmet.Dogru@utsa.ed
+
+### Steering Committee
+
+- Bernd Kramer, bernd.j.kraemer@gmail.com
+- Stan Gatchel, stan@14ucc.com
+- Murat M Tanik, mtanik@uab.edu
+- Yong Zang, yong.zang@concordia.ca
+
+### Supporting institutions
+
+- SDPS, USA
