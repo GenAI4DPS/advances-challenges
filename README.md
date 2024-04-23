@@ -86,3 +86,10 @@ The conference main topics are:
 ### Supporting institutions
 
 - SDPS, USA
+
+## Credits
+
+Webpage project based on the [alshedivat/al-folio](https://github.com/alshedivat/al-folio) template.
+Conference webpage hosted by [GitHub page](https://pages.github.com).
+
+
