@@ -1,8 +1,11 @@
-# Challenges in AI
+# SDPS 2024
 
-SDPS 2024 Conference is organized in Bologna by the Society for Design and Process Science (SDPS). 
+## 26th International Conference of the Society of Design and Process Science
 
-The focus of the conference is on challenges in Artificial Intelligence, The conference SDPS meets challenges in AI/genAI ([SDPSMCAI 2024](https://ai-sdps.github.io/home)) is going to be held 
+### Coference theme on Advances and Challenges of Applying AI/GenAI in Design and Process Science (GenAI4DPS 2024)
 
+#### October 6-9 Bologna, Italy
+
+SDPS has been at the forefront of interdisciplinary and transdisciplinary research for over 28 years. Founded in 1995, it now has members all over the world. 
 
 
