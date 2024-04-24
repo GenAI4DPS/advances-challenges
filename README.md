@@ -95,6 +95,6 @@ The conference main topics are:
 ## Credits
 
 Webpage project based on the [alshedivat/al-folio](https://github.com/alshedivat/al-folio) template.
-Conference webpage hosted by [GitHub page](https://pages.github.com).
+Workshop webpage powered by [Jekyll](https://jekyllrb.com/) and hosted by [GitHub page](https://pages.github.com).
 
 
