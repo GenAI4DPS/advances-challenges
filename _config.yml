@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Advances and Challenges
 email: elisabetta.ronchieri@cnaf.infn.it
-description: Bookmark this to keep an eye on my project updates!
+description: 
 
 lang: en
 
@@ -9,3 +9,7 @@ url: https://genai4dps.github.io
 baseurl: /advances-challenges
 last_updated: true
 
+navbar_fixed: true
+footer_fixed: false
+
+max_width: 875px
