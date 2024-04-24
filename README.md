@@ -1,8 +1,8 @@
-# GenAI4DPS 2024
+# GenAI4DPS 2024 
 
 The 26th International Conference of the Society of Design and Process Science on Advances and Challenges of Applying AI/GenAI in Design and Process Science (GenAI4DPS 2024) is going to be held on October 6-9, Bologna, Italy. SDPS has been at the forefront of interdisciplinary and transdisciplinary research for over 28 years. Founded in 1995, it now has members all over the world engaged in cutting-edge research.  This conference focuses on the impact of AI and GenAI on the design and process of applications now and beyond.
 
-
+![Maggiore Square in Bologna, Italy](./images/NewVersion.jpg)
 
 ## Topics
 
