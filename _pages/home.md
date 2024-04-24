@@ -84,9 +84,9 @@ The conference main topics are:
 #  </tr>
   <tr>
     <td style="text-align:center">
-      <b>Elisabetta Ronchieri</b> <br> INFN-Firenze <br>
+      <b>Elisabetta Ronchieri</b> <br> INFN CNAF <br>
       <a href="mailto:elisabetta.ronchieri@cnaf.infn.it" title="email"><i class="fas fa-envelope"></i></a>
-#      <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a>
 #      <a href="https://www.semanticscholar.org/author/A.-Bombini/84260082" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
 #     <a href="https://dl.acm.org/profile/99660371894" title="acm"><i class="ai ai-acm ai"></i></a>
 #      <a href="https://github.com/androbomb" title="GitHub"><i class="fab fa-github"></i></a>
@@ -96,7 +96,7 @@ The conference main topics are:
     <td style="text-align:center">
       <b>Sang Suh</b> <br>  <br>
       <a href="mailto:Sang.Suh@tamuc.edu" title="email"><i class="fas fa-envelope"></i></a>
-#      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a>
 #      <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
 #      <a href="https://inspirehep.net/authors/1908127?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
 #     <a href="https://github.com/mbarbetti" title="GitHub"><i class="fab fa-github"></i></a>
@@ -106,7 +106,17 @@ The conference main topics are:
     <td style="text-align:center">
       <b>Radmila Juric</b> <br>  <br>
       <a href="mailto:radjur3@gmail.com" title="email"><i class="fas fa-envelope"></i></a>
-#      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a>
+#      <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
+#      <a href="https://inspirehep.net/authors/1908127?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
+#     <a href="https://github.com/mbarbetti" title="GitHub"><i class="fab fa-github"></i></a>
+#      <a href="https://www.linkedin.com/in/matteo-barbetti" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+#     <a href="https://twitter.com/mbarbetz" title="Twitter"><i class="fab fa-twitter"></i></a>
+    </td>
+    <td style="text-align:center">
+      <b>Patrick Then</b> <br> S Win Burne <br>
+      <a href="mailto:radjur3@gmail.com" title="email"><i class="fas fa-envelope"></i></a>
+      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a>
 #      <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
 #      <a href="https://inspirehep.net/authors/1908127?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
 #     <a href="https://github.com/mbarbetti" title="GitHub"><i class="fab fa-github"></i></a>
@@ -116,13 +126,13 @@ The conference main topics are:
     <td style="text-align:center">
       <b>John Carbone</b> <br>  Force Point <br>
       <a href="mailto:John.Carbone@forcepointgov.com" title="email"><i class="fas fa-envelope"></i></a>
-#      <a href="https://orcid.org/0000-0002-6237-0432" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://orcid.org/0000-0002-6237-0432" title="orcid"><i class="fab fa-orcid"></i></a>
 #      <a href="https://www.semanticscholar.org/author/L.-Castelli/119595571" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </td>
     <td style="text-align:center">
       <b>Ali Hikmet Dogru</b> <br> UTSA <br>
       <a href="mailto:AliHikmet.Dogru@utsa.ed" title="email"><i class="fas fa-envelope"></i></a>
-#      <a href="https://orcid.org/0000-0002-1057-2307" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://orcid.org/0000-0002-1057-2307" title="orcid"><i class="fab fa-orcid"></i></a>
 #      <a href="https://www.semanticscholar.org/author/S.-Dal-Pra/13534449" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
 #      <a href="https://inspirehep.net/authors/1423914?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
 #      <a href="https://www.linkedin.com/in/stefano-dal-pra-9601455/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -132,5 +142,5 @@ The conference main topics are:
 
 ### Contact
 
-:mailbox_with_mail: For any questions, please contact us via our institutional emails.
+For any questions, please contact us via our institutional emails.
 
