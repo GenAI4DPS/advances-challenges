@@ -1,13 +1,3 @@
-### Elisabetta Ronchieri
-
-### Radmila Juric
-
-### Sang Suh
-
-### Patrick
-
-### John Carbone
-
 ---
 layout: page
 permalink: /organizers/
