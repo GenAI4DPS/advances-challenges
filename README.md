@@ -4,8 +4,6 @@ The 26th International Conference of the [Society of Design and Process Science 
 
 SDPS has been at the forefront of transdisciplinary research and transformative science and engineering for almost 30 years.  Our international events are forums for challenging  advances in process and design science, computing and software technologies and their impact on research and education.  We are delighted to be back to Bologna, known for their old University and a very vibrant science and research communities.  This is an opportunity to address the main motto of SDPS 2023 conference and debate an inevitable impact of AI/GenAI to research, academia and businesses.
 
-[GenAI4DPS 2024](https://genai4dps.github.io/advances-challenges) focuses on the impact of AI and GenAI on the design and process of applications now and beyond. It is funded by , the forefront of interdisciplinary and transdisciplinary research for over 28 years. 
-
 ![Maggiore Square in Bologna, Italy](./images/NewVersion.jpg)
 
 ## Credits
