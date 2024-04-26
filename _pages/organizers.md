@@ -9,7 +9,7 @@ nav_order: 3
 ---
 
 <div class="organizer">
-  <img class="photo" alt="Elisabetta Ronchieri" src="{{ site.baseurl }}/assets/img/people/ronchieri.jpeg">
+  <img class="photo" alt="Elisabetta Ronchieri" src="{{ site.baseurl }}/assets/img/people/ronchieri.jpg">
   <div class="info">
     <h4>Elisabetta Ronchieri  
       <a href="mailto:elisabetta.ronchieri@cnaf.infn.it" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
