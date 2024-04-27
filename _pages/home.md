@@ -37,7 +37,7 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
     <td style="text-align:center">
       <b>Elisabetta Ronchieri</b> <br> INFN CNAF <br>
       <a href="mailto:elisabetta.ronchieri@cnaf.infn.it" title="email"><i class="fas fa-envelope"></i></a>
-      <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://orcid.org/0000-0002-7341-6491" title="orcid"><i class="fab fa-orcid"></i></a>
       <a href="https://www.semanticscholar.org/author/E.-Ronchieri/2661654" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
       <a href="https://www.linkedin.com/in/elisabetta-ronchieri-b736b32" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
