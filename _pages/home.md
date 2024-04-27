@@ -39,10 +39,7 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
       <a href="mailto:elisabetta.ronchieri@cnaf.infn.it" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a>
       <a href="https://www.semanticscholar.org/author/E.-Ronchieri/2661654" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-#     <a href="https://dl.acm.org/profile/99660371894" title="acm"><i class="ai ai-acm ai"></i></a>
-#      <a href="https://github.com/androbomb" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/elisabetta-ronchieri-b736b32" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-#      <a href="https://twitter.com/__AndroBomb__" title="Twitter"><i class="fab fa-twitter"></i></a>
     </td>
     <td style="text-align:center">
       <b>Sang Suh</b> <br>  <br>
@@ -94,4 +91,3 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
 ### Contact
 
 For any questions, please contact us via our institutional emails.
-
