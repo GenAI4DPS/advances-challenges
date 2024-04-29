@@ -10,7 +10,7 @@ nav_order: 2
 
 The GenAI4DPS 2024 Conference Themes are the following (but not limited to)
 
-1. <u>AI/GenAI in Design and Process Science</u>
+1. <u>Track 1: AI/GenAI in Design and Process Science</u>
   - The lack of understanding immature designs and processes in AI;
   - Fear of unknown AI/GenAI technologies;
   - Ambiguity/disguised complexities of applying AI/GenAI;
@@ -19,7 +19,7 @@ The GenAI4DPS 2024 Conference Themes are the following (but not limited to)
   - AI/GenAI in automation and autonomy;
   - Qualitatively harnessing the power of formal AI/GenAI design; Exposing gaps in formal AI/GenAI design and process education. 
 
-2. <u>Challenges in Generative AI and Language Models</u>
+2. <u>Track 2: Challenges in Generative AI and Language Models</u>
   - Mastering NLP tasks with GenAI;
   - Proficiency of GenAI/LLM in text genertion/categorisation/translation and linguistic manipulation;
   - Text classification research trends;
@@ -29,7 +29,7 @@ The GenAI4DPS 2024 Conference Themes are the following (but not limited to)
   - The power of prompts and their adversarial effects;
   - The future of small language models.
 
-3. <u>AI and Applied Science</u>
+3. <u>Track 3: AI and Applied Science</u>
   - Scientific discoveries from data using AI;
   - Convergence of scientific data and AI;
   - Specificity of AI algorithms and predictive inference upon scientific data;
@@ -39,7 +39,7 @@ The GenAI4DPS 2024 Conference Themes are the following (but not limited to)
   - AI/GenAI for material science, scientific processes/research;
   - AI for discovery of drugs/medical treatments.
 
-4. <u>AI/GenAI Applications and Computational Platforms</u>
+4. <u>Track 4: AI/GenAI Applications and Computational Platforms</u>
   - Interactive environments for data analysis and AI;
   - The power of clouds, fog, containers, orchestration, and clusters for AI;
   - Correlation between simulation and deep generative models;
