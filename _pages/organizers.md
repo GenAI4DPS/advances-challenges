@@ -32,7 +32,7 @@ nav_order: 3
     <p> TAMUC </p>
   </div>
   <p class="bio">
-    TODO
+    Dr. Sang Suh journeyed to the United States in 1984 to earn a master's degree in computer science at the University of Hawaii. After earning his doctorate in computer science from Southern Methodist University, Suh began teaching at East Texas State University (now A&M-Commerce) in 1993. He was honored by The Texas A&M University System in 2018 as a Regents Professor. Suh is deeply committed to international leadership toward building a strong transdisciplinary science education community through his work with the Society for Design and Process Science (SDPS). His contributions in various capacities and as a role model identifying and educating world changers—have helped SDPS develop into a global organization over the past 25 years.
   </p>
 </div>
 
@@ -46,7 +46,7 @@ nav_order: 3
     <p>  </p>
   </div>
   <p class="bio">
-    Radmila Juric is a computer scientist, with a long-term research interest in semantic technologies and creating computational meaning, underpinned with formalisations and description logic.  Her interests in computational models based on reasoning, highlighted the problematic nature of our computational algorithms when they either address problems across disciplines, or compute solutions for complex situations, which would satisfy humans.  She is also interested in accountability an obscurity of modern computational algorithms and would like to move research towards ternary computing, which might address numerous worries we have about the future of computing at the beginning of the third decade in the 21st century. 
+    Dr Radmila Juric is a computer scientist, with a long-term research interest in semantic technologies and creating computational meaning, underpinned with formalisations and description logic.  Her interests in computational models based on reasoning, highlighted the problematic nature of our computational algorithms when they either address problems across disciplines, or compute solutions for complex situations, which would satisfy humans.  She is also interested in accountability an obscurity of modern computational algorithms and would like to move research towards ternary computing, which might address numerous worries we have about the future of computing at the beginning of the third decade in the 21st century. 
   </p>
 </div>
 
