@@ -51,7 +51,7 @@ nav_order: 3
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Patrick Then" src="{{ site.baseurl }}/assets/img/people/Then.jpeg">
+  <img class="photo" alt="Patrick Then" src="{{ site.baseurl }}/assets/img/people/Then.jpg">
   <div class="info">
     <h4>Patrick Then
       <a href="mailto:pthen@swinburne.edu.my" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
