@@ -10,7 +10,7 @@ page_subtitle: >
 news: true  # includes a list of news items
 ---
 
-### Aims and scope
+### Advances and Challenges of Applying AI/GenAI in Design and Process Science
 
 The _26th International Conference of the Society of Design and Process Science ([SDPS](https://www.sdpsnet.org/sdps/))_ on **Advances and Challenges of Applying AI/GenAI in Design and Process Science ([GenAI4DPS 2024](https://genai4dps.github.io/advances-challenges))** is going to be held on October 6-9, Bologna, Italy. 
 
@@ -31,7 +31,7 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/juric.jpg" height="175"></td>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/Then.jpg" height="175"></td>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/carbone.png" height="175"></td>
-    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/ali.jpg" height="175"></td>
+    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/ali.jpeg" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center">
