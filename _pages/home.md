@@ -30,7 +30,7 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/sang.jpeg" height="175"></td>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/juric.jpg" height="175"></td>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/Then.jpg" height="175"></td>
-    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/carbone.jpg" height="175"></td>
+    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/carbone.png" height="175"></td>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/ali.jpg" height="175"></td>
   </tr>
   <tr>
