@@ -24,7 +24,7 @@ nav_order: 3
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Sang Suh" src="{{ site.baseurl }}/assets/img/people/ronchieri.jpeg">
+  <img class="photo" alt="Sang Suh" src="{{ site.baseurl }}/assets/img/people/sang.jpeg">
   <div class="info">
     <h4>Sang Suh
       <a href="mailto:Sang.Suh@tamuc.edu" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
@@ -37,10 +37,11 @@ nav_order: 3
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Radmila Juric" src="{{ site.baseurl }}/assets/img/people/ronchieri.jpeg">
+  <img class="photo" alt="Radmila Juric" src="{{ site.baseurl }}/assets/img/people/radmila.jpg">
   <div class="info">
     <h4>Radmila Juric
       <a href="mailto:radjur3@gmail.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+      <a href="https://orcid.org/0000-0002-0441-0694" title="orcid"><i class="fab fa-orcid"></i></a> 
     </h4>
     <p>  </p>
   </div>
@@ -50,12 +51,11 @@ nav_order: 3
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Patrick Then" src="{{ site.baseurl }}/assets/img/people/ronchieri.jpeg">
+  <img class="photo" alt="Patrick Then" src="{{ site.baseurl }}/assets/img/people/Then.jpeg">
   <div class="info">
     <h4>Patrick Then
       <a href="mailto:pthen@swinburne.edu.my" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
-      <a href="https://orcid.org/0000-0002-7341-6491" title="orcid"><i class="fab fa-orcid"></i></a> 
-      <a href="https://www.semanticscholar.org/author/E.-Ronchieri/2661654" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
+      <a href="https://orcid.org/0000-0002-6079-2527" title="orcid"><i class="fab fa-orcid"></i></a> 
     </h4>
     <p> INFN CNAF </p>
   </div>
@@ -70,12 +70,10 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="John Carbone" src="{{ site.baseurl }}/assets/img/people/ronchieri.jpeg">
+  <img class="photo" alt="John Carbone" src="{{ site.baseurl }}/assets/img/people/carbone.png">
   <div class="info">
     <h4>John Carbone
       <a href="mailto:John.Carbone@forcepointgov.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
-      <a href="https://orcid.org/0000-0002-7341-6491" title="orcid"><i class="fab fa-orcid"></i></a> 
-      <a href="https://www.semanticscholar.org/author/E.-Ronchieri/2661654" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </h4>
     <p> INFN CNAF </p>
   </div>
@@ -85,12 +83,10 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Ali Hikmet Dogru" src="{{ site.baseurl }}/assets/img/people/ronchieri.jpeg">
+  <img class="photo" alt="Ali Hikmet Dogru" src="{{ site.baseurl }}/assets/img/people/ali.jpeg">
   <div class="info">
     <h4>Ali Hikmet Dogru
       <a href="mailto:AliHikmet.Dogru@utsa.edu" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
-      <a href="https://orcid.org/0000-0002-7341-6491" title="orcid"><i class="fab fa-orcid"></i></a> 
-      <a href="https://www.semanticscholar.org/author/E.-Ronchieri/2661654" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </h4>
     <p> INFN CNAF </p>
   </div>
