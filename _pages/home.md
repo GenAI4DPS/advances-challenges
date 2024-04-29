@@ -27,9 +27,9 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
 <table style="max-width:100%; !important;">
   <tr>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/ronchieri.jpg" height="175"></td>
-    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/sang.jpg" height="175"></td>
+    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/sang.jpeg" height="175"></td>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/juric.jpg" height="175"></td>
-    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/patrick.jpg" height="175"></td>
+    <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/Then.jpg" height="175"></td>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/carbone.jpg" height="175"></td>
     <td style="text-align:center"><img src="{{ site.baseurl }}/assets/img/people/ali.jpg" height="175"></td>
   </tr>
@@ -44,46 +44,29 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
     <td style="text-align:center">
       <b>Sang Suh</b> <br>  <br>
       <a href="mailto:Sang.Suh@tamuc.edu" title="email"><i class="fas fa-envelope"></i></a>
-#      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a>
-#      <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-#      <a href="https://inspirehep.net/authors/1908127?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
-#     <a href="https://github.com/mbarbetti" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/sang-suh" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-#     <a href="https://twitter.com/mbarbetz" title="Twitter"><i class="fab fa-twitter"></i></a>
     </td>
     <td style="text-align:center">
       <b>Radmila Juric</b> <br>  <br>
       <a href="mailto:radjur3@gmail.com" title="email"><i class="fas fa-envelope"></i></a>
-      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a>
-#      <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-#      <a href="https://inspirehep.net/authors/1908127?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
-#     <a href="https://github.com/mbarbetti" title="GitHub"><i class="fab fa-github"></i></a>
-#      <a href="https://www.linkedin.com/in/matteo-barbetti" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-#     <a href="https://twitter.com/mbarbetz" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://orcid.org/0000-0002-0441-0694" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://www.linkedin.com/in/radmila-juric-534a6950" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
     <td style="text-align:center">
-      <b>Patrick Then</b> <br> S Win Burne <br>
-      <a href="mailto:radjur3@gmail.com" title="email"><i class="fas fa-envelope"></i></a>
-      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a>
-#      <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-#      <a href="https://inspirehep.net/authors/1908127?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
-#     <a href="https://github.com/mbarbetti" title="GitHub"><i class="fab fa-github"></i></a>
-#      <a href="https://www.linkedin.com/in/matteo-barbetti" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-#     <a href="https://twitter.com/mbarbetz" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <b>Patrick Then</b> <br> University Malasyia Sarawak <br>
+      <a href="mailto:pthen@swinburne.edu.my" title="email"><i class="fas fa-envelope"></i></a>
+      <a href="https://orcid.org/0000-0002-6079-2527" title="orcid"><i class="fab fa-orcid"></i></a>
+      <a href="https://www.linkedin.com/in/patrick-then-8617b410" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
     <td style="text-align:center">
-      <b>John Carbone</b> <br>  Force Point <br>
+      <b>John Carbone</b> <br>  Texas Tech University <br>
       <a href="mailto:John.Carbone@forcepointgov.com" title="email"><i class="fas fa-envelope"></i></a>
-      <a href="https://orcid.org/0000-0002-6237-0432" title="orcid"><i class="fab fa-orcid"></i></a>
-#      <a href="https://www.semanticscholar.org/author/L.-Castelli/119595571" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
+      <a href="https://www.linkedin.com/in/john-carbone-02247a65" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
     <td style="text-align:center">
-      <b>Ali Hikmet Dogru</b> <br> UTSA <br>
+      <b>Ali Hikmet Dogru</b> <br> The University of Texas at San Antonio <br>
       <a href="mailto:AliHikmet.Dogru@utsa.ed" title="email"><i class="fas fa-envelope"></i></a>
-      <a href="https://orcid.org/0000-0002-1057-2307" title="orcid"><i class="fab fa-orcid"></i></a>
-#      <a href="https://www.semanticscholar.org/author/S.-Dal-Pra/13534449" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-#      <a href="https://inspirehep.net/authors/1423914?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
-#      <a href="https://www.linkedin.com/in/stefano-dal-pra-9601455/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/ali-hikmet-dogru-751b6316/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
   </tr>
 </table>
