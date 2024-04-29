@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Home
 permalink: /
 page_title: "Advances and Challenges of Applying AI/GenAI in Design and Process Science"
 page_subtitle: >
