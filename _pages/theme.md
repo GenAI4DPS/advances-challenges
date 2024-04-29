@@ -5,7 +5,7 @@ title: Themes
 page_title: Themes
 page_description: 
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 The GenAI4DPS 2024 Conference Themes are the following (but not limited to)
