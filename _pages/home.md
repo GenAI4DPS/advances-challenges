@@ -2,7 +2,7 @@
 layout: home
 title: Home
 permalink: /
-page_title: "The _26th International Conference of the Society of Design and Process Science ([SDPS](https://www.sdpsnet.org/sdps/))_ on **Advances and Challenges of Applying AI/GenAI in Design and Process Science**"
+page_title: "The 26th International Conference of the Society of Design and Process Science (SDPS) on Advances and Challenges of Applying AI/GenAI in Design and Process Science"
 page_subtitle: >
   <a href="https://genai4dps.github.io/advances-challenges">GenAI4DPS 2024</a>,
   October 6-9, 2024, Bologna, Italy
