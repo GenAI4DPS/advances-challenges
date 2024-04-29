@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /theme/
-title: Theme
-page_title: Theme
+title: Themes
+page_title: Themes
 page_description: 
 nav: true
 nav_order: 2
 ---
 
-### Themes
+The GenAI4DPS 2024 Conference Themes are the following (but not limited to)
 
 1. <u>AI/GenAI in Design and Process Science</u>
   - The lack of understanding immature designs and processes in AI;
