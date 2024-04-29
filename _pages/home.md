@@ -42,7 +42,7 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
       <a href="https://www.linkedin.com/in/elisabetta-ronchieri-b736b32" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
     <td style="text-align:center">
-      <b>Sang Suh</b> <br>  <br>
+      <b>Sang Suh</b> <br> Texas A&M University System <br>
       <a href="mailto:Sang.Suh@tamuc.edu" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://www.linkedin.com/in/sang-suh" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
