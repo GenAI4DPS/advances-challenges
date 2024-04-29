@@ -5,7 +5,7 @@ title: Program Committee Chairs
 page_title: Organizers
 description:
 nav: true
-nav_order: 3
+nav_order: 1
 ---
 
 <div class="organizer">
