@@ -9,9 +9,9 @@ nav_order: 1
 ---
 
 <div class="organizer">
-  <img class="photo" alt="Elisabetta Ronchieri, Ph.D." src="{{ site.baseurl }}/assets/img/people/ronchieri.jpg">
+  <img class="photo" alt="Elisabetta Ronchieri" src="{{ site.baseurl }}/assets/img/people/ronchieri.jpg">
   <div class="info">
-    <h4>Elisabetta Ronchieri  
+    <h4>Elisabetta Ronchieri, Ph.D.  
       <a href="mailto:elisabetta.ronchieri@cnaf.infn.it" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://orcid.org/0000-0002-7341-6491" title="orcid"><i class="fab fa-orcid"></i></a> 
       <a href="https://www.semanticscholar.org/author/E.-Ronchieri/2661654" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
@@ -24,15 +24,15 @@ nav_order: 1
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Sang C. Suh, Ph.D." src="{{ site.baseurl }}/assets/img/people/sang.jpg">
+  <img class="photo" alt="Sang C. Suh" src="{{ site.baseurl }}/assets/img/people/sang.jpg">
   <div class="info">
-    <h4>Sang Suh
+    <h4>Sang C. Suh, Ph.D.
       <a href="mailto:Sang.Suh@tamuc.edu" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
     </h4>
     <p> Regents Professor, The Texas A&M University System </p>
   </div>
   <p class="bio">
-    DR. Sang Suh is a Regents Professor of Texas A&M University System and a Professor of Computer Science at Texas A&M University – Commerce, USA. His primary research interests are in the areas of artificial intelligence, human computer interaction, data mining, knowledge and data engineering, machine reasoning and computing education. He has over 35 years of experience in scholarly and research activities developing practical industrial applications in those areas with special focus on convergence to transdisciplinary applications. Dr. Suh published 6 books and more than 150 research papers in those areas. He has been recognized for his international leadership in building strong computational and transdisciplinary science and education community with his dedicated contribution of service in various capacities including international conferences and workshops.
+    DR. Sang C. Suh is a Regents Professor of Texas A&M University System and a Professor of Computer Science at Texas A&M University – Commerce, USA. His primary research interests are in the areas of artificial intelligence, human computer interaction, data mining, knowledge and data engineering, machine reasoning and computing education. He has over 35 years of experience in scholarly and research activities developing practical industrial applications in those areas with special focus on convergence to transdisciplinary applications. Dr. Suh published 6 books and more than 150 research papers in those areas. He has been recognized for his international leadership in building strong computational and transdisciplinary science and education community with his dedicated contribution of service in various capacities including international conferences and workshops.
   </p>
 </div>
 
