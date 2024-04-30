@@ -96,9 +96,9 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
 ### Stearing Committees
 
 <div class="organizer">
-  <img class="photo" alt="Bernd Kramer" src="{{ site.baseurl }}/assets/img/people/bernd.jpg">
+  <img class="photo" alt="Bernd Kraemer" src="{{ site.baseurl }}/assets/img/people/Bernd_Kraemer.png">
   <div class="info">
-    <h4>Bernd Kramer 
+    <h4>Bernd Kraemer 
       <a href="mailto:bernd.j.kraemer@gmail.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
     </h4>
     <p> Professor Emeritus, FernUniversität in Hagen </p>
