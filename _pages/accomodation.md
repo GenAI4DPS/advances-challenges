@@ -1,7 +1,7 @@
 ---
-layout: accomodation
+layout: page
 title: Accomodation
-permalink: /
+permalink: /accomodation/
 page_title: Accomodation
 page_subtitle: 
 
