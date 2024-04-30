@@ -81,10 +81,10 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
 <div class="organizer">
   <img class="photo" alt="Ali Hikmet Dogru" src="{{ site.baseurl }}/assets/img/people/ali.jpeg">
   <div class="info">
-    <h4>Ali Hikmet Dogru
+    <h4>Ali Hikmet Dogru, Ph.D.
       <a href="mailto:AliHikmet.Dogru@utsa.edu" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
     </h4>
-    <p> INFN CNAF </p>
+    <p> The University of Texas at San Antonio </p>
   </div>
   <p class="bio">
     Ph.D. in Physics, he works as a Researcher at the Istituto Nazionale di Fisica Nucleare (INFN) in the network devoted to the application of nuclear techniques to Cultural Heritage, where he is responsible for the research and development of digital infrastructure and web-services. He is also responsible for the digital development of the "Artificial Intelligence for digital REStoration of Cultura Heritage" (AIRES-CH) project, offering a web service for AI-based digital restoration of cultural heritage employing nuclear physics-based imaging raw data. He is also involved in the development of big data services for real time monitoring of environmental risks on cultural heritage within the european project "Competence Centre for Conservation of Cultural Heritage" (4CH).
