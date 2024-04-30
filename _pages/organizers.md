@@ -53,11 +53,11 @@ nav_order: 1
 <div class="organizer">
   <img class="photo" alt="Patrick Then" src="{{ site.baseurl }}/assets/img/people/Then.jpg">
   <div class="info">
-    <h4>Patrick Then
+    <h4>Patrick Then, Ph.D.
       <a href="mailto:pthen@swinburne.edu.my" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://orcid.org/0000-0002-6079-2527" title="orcid"><i class="fab fa-orcid"></i></a> 
     </h4>
-    <p> INFN CNAF </p>
+    <p> SwinBurne University of Technology </p>
   </div>
   <p class="bio">
     Professor Patrick Then heads School of Information and Communication Technologies at Swinburne University of Technology Sarawak Campus and Health Informatics cluster at Swinburne Melbourne Data Science Institute. He is the founder and director of Swinburne Sarawak’s Digital Innovation Precinct and Centre for Digital Futures. He is the thought leader in health informatics and digital health research and development. His recent research in digital health was selected as one of five Asia-Pacific representations to be presented at the inaugural Digital Summit by the European Society of Cardiology at Tallinn, Estonia in October 2019. He demonstrated translational research from fundamental research to solving real-life cardiac challenges faced by clinicians and patients.
