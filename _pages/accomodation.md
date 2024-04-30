@@ -4,7 +4,7 @@ title: Accomodation
 permalink: /accomodation/
 page_title: Accomodation
 nav: true
-nav_order: 1
+nav_order: 5
 
 news: false  # includes a list of news items
 ---
