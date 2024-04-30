@@ -2,7 +2,7 @@
 layout: page
 permalink: /organizers/
 title: Program Committee Chairs
-page_title: Organizers
+page_title: Program Committee Chairs
 description:
 nav: true
 nav_order: 1
