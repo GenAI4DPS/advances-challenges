@@ -6,7 +6,6 @@ page_title: Accomodation
 nav: true
 nav_order: 5
 
-news: false  # includes a list of news items
 ---
 
 Bologna is the capital and largest city of the Emilia-Romagna region in Northern Italy.
