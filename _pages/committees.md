@@ -1,12 +1,14 @@
 ---
 layout: page
-permalink: /organizers/
-title: Program Committee Chairs
-page_title: Program Committee Chairs
+permalink: /committes/
+title: Committes
+page_title: Committes
 description:
 nav: true
 nav_order: 1
 ---
+
+### Program Committee Chairs
 
 <div class="organizer">
   <img class="photo" alt="Elisabetta Ronchieri" src="{{ site.baseurl }}/assets/img/people/ronchieri.jpg">
@@ -91,3 +93,56 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
   </p>
 </div>
 
+### Stearing Committees
+
+<div class="organizer">
+  <img class="photo" alt="Bernd Kramer" src="{{ site.baseurl }}/assets/img/people/bernd.jpg">
+  <div class="info">
+    <h4>Bernd Kramer 
+      <a href="mailto:bernd.j.kraemer@gmail.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+    </h4>
+    <p> Professor Emeritus, FernUniversität in Hagen </p>
+  </div>
+  <p class="bio">
+    Bernd J. Krämer is Professor Emeritus of FernUniversität in Hagen. He has been Chairman of ServTech since 2007 and Honorary Chairman of edu-sharing.net since 2021 after serving on the board since 2009. He was a co-founder of these two non-profit research associations. He has been a guest professor at several renowned universities, including Shanghai Jiao Tong University, the International Computer Science Institute affiliated with UC Berkeley, Monash University in Melbourne, and the Queensland University of Technology in Brisbane.
+  </p>
+</div>
+
+<div class="organizer">
+  <img class="photo" alt="Stan Gatchel" src="{{ site.baseurl }}/assets/img/people/stan.jpg">
+  <div class="info">
+    <h4>Stan Gatchel  
+      <a href="mailto:stan@14ucc.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+    </h4>
+    <p> TO ADD </p>
+  </div>
+  <p class="bio">
+    TO ADD
+  </p>
+</div>
+
+<div class="organizer">
+  <img class="photo" alt="Murat M Tanik" src="{{ site.baseurl }}/assets/img/people/murat-m-tanik.jpg">
+  <div class="info">
+    <h4>Murat M Tanik, Ph.D.
+      <a href="mailto:mtanik@uab.edu" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+    </h4>
+    <p> Professor, The University of Alabama at Birmingham </p>
+  </div>
+  <p class="bio">
+    TO ADD
+  </p>
+</div>
+
+<div class="organizer">
+  <img class="photo" alt="Yong Zeng" src="{{ site.baseurl }}/assets/img/people/yong.jpg">
+  <div class="info">
+    <h4>Yong Zeng, Ph.D.
+      <a href="mailto:yong.zeng@concordia.ca" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+    </h4>
+    <p> Professor, The University of Concordia at Montreal </p>
+  </div>
+  <p class="bio">
+    Dr. Yong Zeng is a Professor in the Concordia Institute for Information Systems Engineering at Concordia University. He was an NSERC Chair in Aerospace Design Engineering program (2015 - 2019). He was the Canada Research Chair (Tier II) in design science (2004 - 2014). Prior to joining in Concordia in August 2003, he was a research associate in the Integrated Manufacturing Technologies Institute at the National Research Council of Canada for about two years after he received his Ph.D. from Department of Mechanical and Manufacturing Engineering at the University of Calgary in 2001. He obtained another PhD degree in Computational Mechanics from Dalian University of Technology in 1992, where he also received his Master's degree in 1989. Between his two PhD studies, he was a faculty member in the Department of Civil and Architectural Engineering at the Institute of Logistics Engineering, where he completed his B.Eng degree in Structural Engineering in 1986.
+  </p>
+</div>
