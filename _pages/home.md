@@ -58,7 +58,7 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
       <a href="https://www.linkedin.com/in/patrick-then-8617b410" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
     <td style="text-align:center">
-      <b>John Carbone</b> <br>  Texas Tech University <br>
+      <b>John Carbone</b> <br> Texas Tech University <br>
       <a href="mailto:John.Carbone@forcepointgov.com" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://www.linkedin.com/in/john-carbone-02247a65" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
