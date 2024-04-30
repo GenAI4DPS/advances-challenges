@@ -24,7 +24,7 @@ nav_order: 1
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Sang C. Suh, Ph.D." src="{{ site.baseurl }}/assets/img/people/sang.jpeg">
+  <img class="photo" alt="Sang C. Suh, Ph.D." src="{{ site.baseurl }}/assets/img/people/sang.jpg">
   <div class="info">
     <h4>Sang Suh
       <a href="mailto:Sang.Suh@tamuc.edu" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
