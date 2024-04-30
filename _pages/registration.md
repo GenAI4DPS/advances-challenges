@@ -26,26 +26,44 @@ nav_order: 1
         <td><strong>Profile</strong></td>
         <td><strong>Early bird (up to August 31)</strong></td>
         <td><strong>Late fee</strong></td>
+        <td><strong>Online participation</strong></td>
+        
       </tr>
       <tr>
         <td>Regular</td>
-        <td>700€</td>
-        <td>750€</td>
+        <td>500€</td>
+        <td>550€</td>
+        <td>200€</td>        
       </tr>
       <tr>
-        <td>IAPR member</td>
-        <td>600€</td>
-        <td>650€</td>
+        <td>Regular 1 day</td>
+        <td>400€</td>
+        <td>450€</td>
+        <td>200€</td>        
+      </tr>
+      <tr>
+        <td>Regular 2 days</td>
+        <td>450€</td>
+        <td>500€</td>
+        <td>200€</td>        
       </tr>
       <tr>
         <td>Student</td>
-        <td>400€</td>
-        <td>450€</td>
+        <td>200€</td>
+        <td>300€</td>
+        <td>100€</td>
       </tr>
       <tr>
-        <td>IAPR student member</td>
-        <td>350€</td>
-        <td>400€</td>
+        <td>Student 1 day</td>
+        <td>100€</td>
+        <td>150€</td>
+        <td>100€</td>
+      </tr>
+      <tr>
+        <td>Student 2 days</td>
+        <td>150€</td>
+        <td>200€</td>
+        <td>100€</td>
       </tr>
     </tbody>
   </table>
