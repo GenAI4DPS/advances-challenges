@@ -3,6 +3,7 @@ layout: page
 title: Accomodation
 permalink: /accomodation/
 page_title: Accomodation
+page_description:
 nav: true
 nav_order: 5
 
