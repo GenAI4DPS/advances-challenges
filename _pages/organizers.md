@@ -32,7 +32,9 @@ nav_order: 1
     <p> TAMUC </p>
   </div>
   <p class="bio">
-    Dr. Sang Suh journeyed to the United States in 1984 to earn a master's degree in computer science at the University of Hawaii. After earning his doctorate in computer science from Southern Methodist University, Suh began teaching at East Texas State University (now A&M-Commerce) in 1993. He was honored by The Texas A&M University System in 2018 as a Regents Professor. Suh is deeply committed to international leadership toward building a strong transdisciplinary science education community through his work with the Society for Design and Process Science (SDPS). His contributions in various capacities and as a role model identifying and educating world changers—have helped SDPS develop into a global organization over the past 25 years.
+    DR. Sang Suh is a Regents Professor of Texas A&M University System and a Professor of Computer Science at Texas A&M University – Commerce, USA. His primary research interests are in the areas of artificial intelligence, human computer interaction, data mining, knowledge and data engineering, machine reasoning and computing education. He has over 35 years of experience in scholarly and research activities developing practical industrial applications in those areas with special focus on convergence to transdisciplinary applications. Dr. Suh published 6 books and more than 150 research papers in those areas. He has been recognized for his international leadership in building strong computational and transdisciplinary science and education community with his dedicated contribution of service in various capacities including international conferences and workshops.
+
+
   </p>
 </div>
 
