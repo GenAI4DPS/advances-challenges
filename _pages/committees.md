@@ -122,7 +122,7 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Murat M Tanik" src="{{ site.baseurl }}/assets/img/people/murat-m-tanik.jpg">
+  <img class="photo" alt="Murat M Tanik" src="{{ site.baseurl }}/assets/img/people/murat-m-tanik.jpeg">
   <div class="info">
     <h4>Murat M Tanik, Ph.D.
       <a href="mailto:mtanik@uab.edu" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
