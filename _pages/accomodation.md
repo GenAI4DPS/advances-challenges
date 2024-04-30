@@ -3,7 +3,8 @@ layout: page
 title: Accomodation
 permalink: /accomodation/
 page_title: Accomodation
-page_subtitle: 
+nav: true
+nav_order: 1
 
 news: false  # includes a list of news items
 ---
