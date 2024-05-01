@@ -52,7 +52,7 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
       <a href="https://www.linkedin.com/in/dr-radmila-juric-534a6950" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
     <td style="text-align:center">
-      <b>Patrick Then</b> <br> University Malasyia Sarawak <br>
+      <b>Patrick Then</b> <br> Swinburne University of Technology Sarawak <br>
       <a href="mailto:pthen@swinburne.edu.my" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://orcid.org/0000-0002-6079-2527" title="orcid"><i class="fab fa-orcid"></i></a>
       <a href="https://www.linkedin.com/in/patrick-then-8617b410" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
