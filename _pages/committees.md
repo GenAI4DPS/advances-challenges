@@ -73,10 +73,10 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
     <h4>John Carbone
       <a href="mailto:John.Carbone@forcepointgov.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
     </h4>
-    <p> INFN CNAF </p>
+    <p> TODO </p>
   </div>
   <p class="bio">
-    Ph.D. in Physics, he works as a Researcher at the Istituto Nazionale di Fisica Nucleare (INFN) in the network devoted to the application of nuclear techniques to Cultural Heritage, where he is responsible for the research and development of digital infrastructure and web-services. He is also responsible for the digital development of the "Artificial Intelligence for digital REStoration of Cultura Heritage" (AIRES-CH) project, offering a web service for AI-based digital restoration of cultural heritage employing nuclear physics-based imaging raw data. He is also involved in the development of big data services for real time monitoring of environmental risks on cultural heritage within the european project "Competence Centre for Conservation of Cultural Heritage" (4CH).
+    TODO
   </p>
 </div>
 
@@ -89,7 +89,18 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
     <p>Professor, The University of Texas at San Antonio </p>
   </div>
   <p class="bio">
-    Ph.D. in Physics, he works as a Researcher at the Istituto Nazionale di Fisica Nucleare (INFN) in the network devoted to the application of nuclear techniques to Cultural Heritage, where he is responsible for the research and development of digital infrastructure and web-services. He is also responsible for the digital development of the "Artificial Intelligence for digital REStoration of Cultura Heritage" (AIRES-CH) project, offering a web service for AI-based digital restoration of cultural heritage employing nuclear physics-based imaging raw data. He is also involved in the development of big data services for real time monitoring of environmental risks on cultural heritage within the european project "Competence Centre for Conservation of Cultural Heritage" (4CH).
+    Dr. Doğru is currently a professor in the University of Texas at San Antonio, Department of Computer
+Science. He served as faculty in the Middle East Technical University and for sabbatical visits, in New
+Jersey Institute of Technology and National University of Singapore. Dr. Dogru has been involved in
+teaching, consulting, research, publications, and project and tool development activities in different
+countries, Dr. Dogru has founded degree programs and research groups in Software Engineering and the
+Center for Verification and Validation for the Modeling and simulation Center, for METU. He has
+supervised many graduate studies and has numerous publications. His research fields are related with
+Software Engineering, covering Component Orientation, Specifications, Methodologies, and Real-time
+critical software. Dr. Doğru has been active within the Society for Design and Process Science since its
+beginning, as a founding member where he served as the president and vice president for the Software
+Engineering Society. He had two one-year sabbatical assignments, in New Jersey Institute of Technology
+and National University of Singapore.
   </p>
 </div>
 
