@@ -59,7 +59,7 @@ nav_order: 3
       <a href="mailto:pthen@swinburne.edu.my" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://orcid.org/0000-0002-6079-2527" title="orcid"><i class="fab fa-orcid"></i></a> 
     </h4>
-    <p> Professor, SwinBurne University of Technology </p>
+    <p> Professor, Swinburne University of Technology Sarawak </p>
   </div>
   <p class="bio">
     Dr Patrick Then heads School of Information and Communication Technologies at Swinburne University of Technology Sarawak Campus and Health Informatics cluster at Swinburne Melbourne Data Science Institute. He is the founder and director of Swinburne Sarawak’s Digital Innovation Precinct and Centre for Digital Futures. He is the thought leader in health informatics and digital health research and development. His recent research in digital health was selected as one of five Asia-Pacific representations to be presented at the inaugural Digital Summit by the European Society of Cardiology at Tallinn, Estonia in October 2019. He demonstrated translational research from fundamental research to solving real-life cardiac challenges faced by clinicians and patients.
@@ -130,7 +130,7 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
     <p> Professor, The University of Alabama at Birmingham </p>
   </div>
   <p class="bio">
-    TO ADD
+    Murat M. Tanik, PhD is Endowed chair emeritus from UAB at Electrical and Computer Engineering department. He is also Co-Director, [UAB Center for Integrated Systems](https://sites.uab.edu/isc/).
   </p>
 </div>
 
