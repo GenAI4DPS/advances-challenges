@@ -73,10 +73,12 @@ He holds distinguished roles as the Board member of Sarawak Development Institut
     <h4>John Carbone
       <a href="mailto:John.Carbone@forcepointgov.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
     </h4>
-    <p> TODO </p>
+    <p> Global Senior Technical Director & Chief Solutions Architect at Evertox </p>
   </div>
   <p class="bio">
-    TODO
+    Dr. John N. Carbone has served the defense industry for ~36 years. Dr. Carbone currently serves as Senior Technical Director/Chief Solutions Architect and science advisor to Everfox (Formerly Forcepoint, LLC), within their Global Governments and Critical Infrastructure division. Prior to Everfox, he served as Raytheon Engineering Fellow, Chief Science Advisor, Product Area Technology Director, Chief Engineer for Innovation, and Chief Data Architect & Scientist for numerous globally distributed Big Data, High Performance Compute, and Cloud programs.  Dr. Carbone received his undergraduate degree in Computer Science from Baylor University, MSE from Texas Tech University, Software and Systems Engineering from University of Texas at Austin, and Mechanical Engineering PhD from Texas Tech University where his focus was on enhancing information theory by combining cognition-based frameworks, cognitive analytic processes, and adaptations of space-time relationship mechanics.  Dr. Carbone’s academic efforts include Adjunct Professor at Southern Methodist University and Baylor University for Graduate Level AI System Design and Data Science, industry advisory boards for Baylor University (CS), Texas Tech University (CS & Cyber), Texas A&M Commerce (CS)(co-chair) for curriculum and ABET accreditations, and University of Texas, Dallas School of Management, and industry board for the Journal of Integrated Design and Process Science (JIDPS).
+
+Dr. Carbone has submitted and received national/international software patents, and publishes and edits research for books, journals, conferences, and symposia. Topics include Artificial Intelligence, Cyber Security, Mining Big Data to Improve National Security, Multi-Disciplinary Systems Engineering, Artificial Cognition Architectures, Applied Cyber Physical Systems, AI infused limbs, hearing, and gait sensing prosthetics, Artificial Psychology, Modeling Human Emotions & Testing Artificially Cognitive Systems. Furthermore, Dr. Carbone has advanced data and networking research in Artificial Intelligence, dynamic content discovery, dynamic workflow and analytics provisioning for static and   streaming data sources, geospatial intelligence enterprise systems, big data analytics, disruption tolerant networking technology, and cognitive computing-based frameworks for enhancing the decision making of autonomous systems.
   </p>
 </div>
 
