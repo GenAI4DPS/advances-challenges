@@ -18,7 +18,7 @@ nav_order: 3
       <a href="https://orcid.org/0000-0002-7341-6491" title="orcid"><i class="fab fa-orcid"></i></a> 
       <a href="https://www.semanticscholar.org/author/E.-Ronchieri/2661654" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
     </h4>
-    <p> INFN CNAF </p>
+    <p> Technologist, INFN CNAF, Bologna; Adjunct Professor, Bologna University, Bologna </p>
   </div>
   <p class="bio">
     Dr. Elisabetta Ronchieri is a computer science engineer who held a PhD in Automation, Bioengineering and Robotics in 2007 at the University of Pisa. Since 2001 she has been working as a Researcher in Technology at the Italian National Institute for Nuclear Physics (INFN). She is currently a member of the Distributed Systems (DS) group in the Software Development and Distributed Systems (SDDS) department at INFN CNAF, the INFN National Center dedicated to research and development on IT technologies, located in Bologna, Italy. From 2014 to 2017 she collaborated with the University of Ferrara as an Adjunct Professor teaching Computer Science at the Bachelor degree in Economics. Since 2019 she has started collaborating with the University of Bologna as an Adjunct Professor teaching Machine Learning Systems for Data Science at the Master degree in Statistical Sciences. She does research in Software Engineering, Big Data Technologies, Information and Data Science, particularly with respect to anomaly detection, text analysis, text classification, and clustering in data mining applications.
@@ -153,7 +153,7 @@ and National University of Singapore.
     <h4>Yong Zeng, Ph.D.
       <a href="mailto:yong.zeng@concordia.ca" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
     </h4>
-    <p> Professor, The University of Concordia at Montreal </p>
+    <p> Professor, Concordia University, Montreal </p>
   </div>
   <p class="bio">
     Dr. Yong Zeng is a Professor in the Concordia Institute for Information Systems Engineering at Concordia University. He was an NSERC Chair in Aerospace Design Engineering program (2015 - 2019). He was the Canada Research Chair (Tier II) in design science (2004 - 2014). Prior to joining in Concordia in August 2003, he was a research associate in the Integrated Manufacturing Technologies Institute at the National Research Council of Canada for about two years after he received his Ph.D. from Department of Mechanical and Manufacturing Engineering at the University of Calgary in 2001. He obtained another PhD degree in Computational Mechanics from Dalian University of Technology in 1992, where he also received his Master's degree in 1989. Between his two PhD studies, he was a faculty member in the Department of Civil and Architectural Engineering at the Institute of Logistics Engineering, where he completed his B.Eng degree in Structural Engineering in 1986.
