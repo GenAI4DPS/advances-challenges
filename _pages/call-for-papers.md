@@ -41,9 +41,9 @@ nav_order: 1
 
 We invite submission of papers describing work in the domains suggested above or in closely-related areas.
 
-The conference's reviewing of submissions will be **double-blind** and independently peer reviewed. Accepted submissions will be presented either as oral resentation or posters at the workshop, and will be published by Springer as Lecture Notes in Computer Science series (LNCS), in the GenAI4SDPS 2024 Conference volume.
+The conference's reviewing of submissions will be **double-blind** and independently peer reviewed. Accepted submissions will be presented either as oral resentation or posters at the workshop, and will be published by Springer Nature, in the SDPS 2024 conference volume.
 
-The maximum number of pages is 8 with references. While preparing their contributions, authors must follow the guidelines and technical instructions provided by Springer (see [Springer guideline](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and [Springer Overleaf LaTex template](https://www.overleaf.com/latex/templates/pringer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)).
+The maximum number of pages is 8 with references. While preparing their contributions, authors can use [Springer Nature latex template]([https://www.overleaf.com/latex/templates/pringer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)](https://www.overleaf.com/latex/templates/springer-nature-latex-template/myxmhdsbzkyd)).
 
 Each accepted paper must be covered by at least **one registered author**. Registration can be either for the full event (4 days) at a regular rate or just for PhD symposium on October 6, SPDS workshop on October 9, and presentations of peer reviewed papers on October 7-8 (2 days).
 
