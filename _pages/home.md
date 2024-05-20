@@ -11,7 +11,7 @@ news: true  # includes a list of news items
 ---
 
 
-The _26th International Conference of the Society of Design and Process Science ([SDPS](https://www.sdpsnet.org/sdps/))_ on **Advances and Challenges of Applying AI/GenAI in Design and Process Science ([GenAI4DPS 2024](https://genai4dps.github.io/advances-challenges))** will be held on October 6-9, 2024, Bologna, Italy. 
+The _26th International Conference of the Society of Design and Process Science ([SDPS](https://www.sdpsnet.org/sdps/))_ on **Advances and Challenges of Applying AI/GenAI in Design and Process Science ([GenAI4DPS](https://genai4dps.github.io/advances-challenges))** will be held on October 6-9, 2024, Bologna, Italy. 
 
 SDPS has been at the forefront of transdisciplinary research and transformative science and engineering for almost 30 years.  Our international events are forums for challenging  advances in process and design science, computing and software technologies and their impact on research and education. We are delighted to be back to Bologna, known for their old University and a very vibrant science and research communities.  This is an opportunity to address the main motto of the 26th SDPS International Conference that spans a broad spectrum of topics, focusing on AI and Generative AI technologies and their application in design and process science.
 
@@ -58,7 +58,7 @@ Ths submission deadline is **July, 20, 2024**. Accepted papers will be published
       <a href="https://www.linkedin.com/in/patrick-then-8617b410" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
     <td style="text-align:center">
-      <b>John Carbone</b> <br> Texas Tech University <br>
+      <b>John Carbone</b> <br> Baylor University <br>
       <a href="mailto:John.Carbone@forcepointgov.com" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://www.linkedin.com/in/john-carbone-02247a65" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
