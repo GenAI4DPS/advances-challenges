@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 ---
 
-The main motto of the 26th SDPS International Conference spans a broad spectrum of topics, focusing on AI and Generative AI technologies and their application in design and process science.
+The main motto of the 2024 International Conference of the Society for Design and Process Science spans a broad spectrum of topics, focusing on AI and Generative AI technologies and their application in design and process science.
 
 In this instance we have the opportunity to debate misconceptions about the power, suitability, success and fear in using the technology across industries and therefore Track 1 would, amongst other issues of misconceptions of using AI/GenAI search for the way of harnessing the power of formal AI/GenAI Design and Process to accelerate Science, Business and Engineering.
 
@@ -22,7 +22,7 @@ Creating operating environments where we can run AI/GenAI solutions would requir
 
 It remains to be seen how far we can go in using the current format of AI/GenAI technologies in design and process science and we hope that the conference would highlight <u>“what the future holds”</u>. What we expect from design and process science in the light of massive content generation and manipulation across disciplines.
 
-The GenAI4DPS 2024 Conference Themes are the following (but not limited to)
+The GenAI4DPS Conference Themes are the following (but not limited to)
 
 1. Track 1: M<u>isconceptions of Using AI/GenAI in Design and Process Science</u>
   - Understanding the lack of understanding immature designs, processes, research and engineering, underpinned with AI
