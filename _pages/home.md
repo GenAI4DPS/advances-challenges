@@ -2,7 +2,7 @@
 layout: home
 title: Home
 permalink: /
-page_title: "The 26th International Conference of the Society for Design and Process Science (SDPS) on Advances and Challenges of Applying AI/GenAI in Design and Process Science"
+page_title: "The 2024 International Conference of the Society for Design and Process Science (SDPS) on Advances and Challenges of Applying AI/GenAI in Design and Process Science"
 page_subtitle: >
   <a href="https://genai4dps.github.io/advances-challenges">GenAI4DPS 2024</a>,
   October 6-9, 2024, Bologna, Italy
@@ -11,7 +11,7 @@ news: true  # includes a list of news items
 ---
 
 
-The _26th International Conference of the Society for Design and Process Science ([SDPS](https://www.sdpsnet.org/sdps/))_ on **Advances and Challenges of Applying AI/GenAI in Design and Process Science ([GenAI4DPS](https://genai4dps.github.io/advances-challenges))** will be held on October 6-9, 2024, Bologna, Italy. 
+The 2024 International Conference of the Society for Design and Process Science ([SDPS](https://www.sdpsnet.org/sdps/))_ on **Advances and Challenges of Applying AI/GenAI in Design and Process Science ([GenAI4DPS](https://genai4dps.github.io/advances-challenges))** will be held on October 6-9, 2024, Bologna, Italy. 
 
 SDPS has been at the forefront of transdisciplinary research, transformative science, and engineering for almost 30 years.  Our international events are forums for challenging  advances in process and design science, computing and software technologies and their impact on research and education. We are delighted to be back to Bologna, known for their old University and a very vibrant science and research communities.  This is an opportunity to address the main motto of the 26th SDPS International Conference that spans a broad spectrum of topics, focusing on AI and Generative AI technologies and their application in design and process science.
 
