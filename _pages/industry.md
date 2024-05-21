@@ -5,7 +5,7 @@ title: Industry
 page_title: Industry
 page_description: 
 nav: true
-nav_order: 1
+nav_order: 7
 ---
 
 ### Industry
