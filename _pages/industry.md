@@ -5,7 +5,7 @@ title: Insight for Industry
 page_title: Industry
 page_description: 
 nav: true
-nav_order: 7
+nav_order: 1
 ---
 
 ### Challenges in AI/GenAI Design and Process for Industry
