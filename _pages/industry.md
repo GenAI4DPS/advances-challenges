@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /industry/
-title: Industry
+title: Insight for Industry
 page_title: Industry
 page_description: 
 nav: true
