@@ -5,7 +5,7 @@ permalink: /accomodation/
 page_title: Accomodation
 page_description:
 nav: true
-nav_order: 5
+nav_order: 6
 
 ---
 
