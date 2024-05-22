@@ -5,7 +5,7 @@ title: Call for Papers
 page_title: Call for papers
 page_description: 
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 ### Key dates and information
