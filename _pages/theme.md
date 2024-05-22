@@ -5,7 +5,7 @@ title: Themes
 page_title: Themes
 page_description: 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 The main motto of the 2024 International Conference of the Society for Design and Process Science spans a broad spectrum of topics, focusing on AI and Generative AI technologies and their application in design and process science.
