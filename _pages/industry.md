@@ -79,9 +79,9 @@ Sang Suh Texas A&amp;M University-Commerce, Texas, US Sang.Suh@tamuc.edu
 
 Radmila Juric, ALMAIS Consultancy, UK rada@ieee.org
 
-Patrick 
+Patrick Then, Swinburne University of Technology Sarawak, Malaysia, 
 
-John Carbone XXXXXXXXXXXXXXX John.Carbone@forcepointgov.com
+John Carbone,  John.Carbone@forcepointgov.com
 
 Ali 
 
