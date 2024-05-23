@@ -48,7 +48,7 @@ nav_order: 4
     <p> Consultant </p>
   </div>
   <p class="bio">
-    Radmila Juric worked for 25 years in the UK higher education, involved in the delivery of
+    Dr Radmila Juric worked for 25 years in the UK higher education, involved in the delivery of
 information systems and computer science and business programs, and 7 years in the
 Norwegian higher education focusing on engineering environments and teaching software
 development and architectures in cyber physical spaces. Before her academic carrier, she
