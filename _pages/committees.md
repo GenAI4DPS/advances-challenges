@@ -41,14 +41,33 @@ nav_order: 4
 <div class="organizer">
   <img class="photo" alt="Radmila Juric" src="{{ site.baseurl }}/assets/img/people/radmila.jpg">
   <div class="info">
-    <h4>Radmila Juric
-      <a href="mailto:radjur3@gmail.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+    <h4>Radmila Juric, Ph.D.
+      <a href="mailto:rada@eee.org" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://orcid.org/0000-0002-0441-0694" title="orcid"><i class="fab fa-orcid"></i></a> 
     </h4>
-    <p>  </p>
+    <p> Consultant </p>
   </div>
   <p class="bio">
-    Dr Radmila Juric is a computer scientist, with a long-term research interest in semantic technologies and creating computational meaning, underpinned with formalisations and description logic.  Her interests in computational models based on reasoning, highlighted the problematic nature of our computational algorithms when they either address problems across disciplines, or compute solutions for complex situations, which would satisfy humans.  She is also interested in accountability an obscurity of modern computational algorithms and would like to move research towards ternary computing, which might address numerous worries we have about the future of computing at the beginning of the third decade in the 21st century. 
+    Radmila Juric worked for 25 years in the UK higher education, involved in the delivery of
+information systems and computer science and business programs, and 7 years in the
+Norwegian higher education focusing on engineering environments and teaching software
+development and architectures in cyber physical spaces. Before her academic carrier, she
+worked as a software engineer in the banking industry, mostly on the IBM mainframes and
+DB2.
+    
+Her research interest spans various disciplines, ranging from interactions in pervasive
+computing with emphasis on cognitive, cultural and behavioural issues, and their
+applications in healthcare, to architectures and frameworks for achieving interoperability in
+software intensive systems. She is particularly interested in creating algorithms which
+shape the current definition of Artificial Intelligence and analysing the human involvement
+in creating intelligent programmable spaces, for the purpose of exploiting the power of
+predictive and logic inference in modern computing. This includes issues of obscurity,
+reliability, bias and potential harm of the AI algorithms and the way we perceive the role of
+data science in the modern computing and in education is also The domain of research
+interest is wide: from personalised healthcare and precision medicine, biomedical and
+translational semantics and drug repurposing, and discoveries, to the IoT and intelligent
+computational edge, cyber physical security, transportation and automation, urban
+emergencies and humanitarian crises.
   </p>
 </div>
 
