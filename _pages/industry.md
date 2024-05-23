@@ -75,13 +75,12 @@ Feel free to contact any of our committee members using emails.
 
 Elisabetta Ronchieri, INFN CNAF and University of Bologna, Italy elisabetta.ronchieri@unibo.it
 
-Sang Suh Texas A&amp;M University-Commerce, Texas, US Sang.Suh@tamuc.edu
+Sang Suh Texas A&amp;M University-System, Texas, US Sang.Suh@tamuc.edu
 
 Radmila Juric, ALMAIS Consultancy, UK rada@ieee.org
 
-Patrick Then, Swinburne University of Technology Sarawak, Malaysia, 
+Patrick Then, Swinburne University of Technology Sarawak, Malaysia, pthen@swinburne.edu.my
 
-John Carbone,  John.Carbone@forcepointgov.com
+John Carbone, Baylor University, Texas, John.Carbone@forcepointgov.com
 
-Ali 
-
+Ali Hikmet Dogru, The University of Texas at San Antonio, AliHikmet.Dogru@utsa.ed
