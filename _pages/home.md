@@ -47,7 +47,7 @@ Ths submission deadline is **July, 20, 2024**. Conference proceedings will be pu
     </td>
     <td style="text-align:center">
       <b>Radmila Juric</b> <br>ALMAIS Consultancy, London UK <br>
-      <a href="mailto:rada@eee.org" title="email"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:rada@ieee.org" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://orcid.org/0000-0002-0441-0694" title="orcid"><i class="fab fa-orcid"></i></a>
       <a href="https://www.linkedin.com/in/dr-radmila-juric-534a6950" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
