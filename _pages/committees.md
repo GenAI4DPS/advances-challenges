@@ -42,7 +42,7 @@ nav_order: 4
   <img class="photo" alt="Radmila Juric" src="{{ site.baseurl }}/assets/img/people/radmila.jpg">
   <div class="info">
     <h4>Radmila Juric, Ph.D.
-      <a href="mailto:rada@eee.org" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+      <a href="mailto:rada@ieee.org" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://orcid.org/0000-0002-0441-0694" title="orcid"><i class="fab fa-orcid"></i></a> 
     </h4>
     <p> Consultant </p>
