@@ -35,7 +35,7 @@ nav_order: 2
   </li>
 </ol>
 
-**Submission website:** [EasyChair/GenAI4DPS2024](https://GenAI4DPS2024)
+**Submission website:** [EasyChair/GenAI4DPS2024](https://easychair.org/cfp/SDPS2024)
 
 ### Submission and review
 
@@ -49,4 +49,4 @@ Each accepted paper must be covered by at least **one registered author**. Regis
 
 ### Submission website1
 
-Submission website: [EasyChair/GenAI4DPS2024](https://GenAI4DPS2024)
+Submission website: [EasyChair/GenAI4DPS2024](https://easychair.org/cfp/SDPS2024)
