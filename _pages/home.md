@@ -41,7 +41,7 @@ The submission deadline is **July, 20, 2024**. Conference proceedings will be pu
       <a href="https://www.linkedin.com/in/elisabetta-ronchieri-b736b32" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
     <td style="text-align:center">
-      <b>Sang Suh</b> <br> Texas A&M University System <br>
+      <b>Sang Suh</b> <br> Texas A&M University-Commerce <br>
       <a href="mailto:Sang.Suh@tamuc.edu" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://www.linkedin.com/in/sang-suh" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </td>
