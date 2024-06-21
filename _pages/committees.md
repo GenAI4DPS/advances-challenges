@@ -31,7 +31,7 @@ nav_order: 4
     <h4>Sang C. Suh, Ph.D.
       <a href="mailto:Sang.Suh@tamuc.edu" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
     </h4>
-    <p> Regents Professor, The Texas A&M University System </p>
+    <p> Regents Professor, The Texas A&M University-Commerce </p>
   </div>
   <p class="bio">
     DR. Sang C. Suh is a Regents Professor of Texas A&M University System and a Professor of Computer Science at Texas A&M University – Commerce, USA. His primary research interests are in the areas of artificial intelligence, human computer interaction, data mining, knowledge and data engineering, machine reasoning and computing education. He has over 35 years of experience in scholarly and research activities developing practical industrial applications in those areas with special focus on convergence to transdisciplinary applications. Dr. Suh published 6 books and more than 150 research papers in those areas. He has been recognized for his international leadership in building strong computational and transdisciplinary science and education community with his dedicated contribution of service in various capacities including international conferences and workshops.
