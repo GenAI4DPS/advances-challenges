@@ -65,9 +65,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: physicsmeetsai # your GitHub user name
+github_username: GenAI4DPS # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: bvpai2023 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: company/bvpai2023 # your LinkedIn user name
 telegram_username: # your Telegram user name
