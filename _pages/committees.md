@@ -141,15 +141,31 @@ and National University of Singapore.
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Stan Gatchel" src="{{ site.baseurl }}/assets/img/people/stan.jpg">
+  <img class="photo" alt="Stan Gatchel" src="{{ site.baseurl }}/assets/img/people/stan_gatchel.jpg">
   <div class="info">
     <h4>Stan Gatchel  
       <a href="mailto:stan@14ucc.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
     </h4>
-    <p> TO ADD </p>
+    <p> Senior Advisor SDPS </p>
   </div>
   <p class="bio">
-    TO ADD
+    Mr. Gatchel had a small part in the founding of SDPS from 1994-1995 and served as its
+Secretary and Treasurer for over 20 years. He graduated from the University of Texas at
+Arlington in 1969 and went to work as engineer at Bell Helicopter Textron in Fort Worth,
+Texas. He worked in the Bell Engineering Department for over five years, where he primarily
+focused on the dynamic analysis of tiltrotor aircraft. He and his wife then moved to State
+College, Pennsylvania where in 1976 he graduated with an MS degree in Engineering
+Mechanics from Penn State University. Following graduation, he went to Cincinnati and
+worked for the Structural Dynamics Research Corporation, an engineering consulting firm.
+There, his projects involved design analysis of many complex systems for a diverse group
+of industry clients including automotive, heavy equipment, aerospace, and industrial
+equipment. After two years, he went work for University Computing Company (UCC) in
+Dallas, Texas where he stayed for almost fifteen years. He supported and advised many
+industry clients on projects involving the use of complex engineering software applications
+available on the UCC network. He held several positions from consultant to marketing
+manager before leaving UCC to become a consultant for major electric utility companies,
+software houses, and telecommunications companies. He founded several small
+companies and is now retired.
   </p>
 </div>
 
