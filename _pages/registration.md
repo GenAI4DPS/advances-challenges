@@ -70,5 +70,3 @@ nav_order: 5
 </figure>
 
 <p>**includes main conference, workshop, PhD symposium and social events</p>
-<p>Rates are in Euro, per person, including taxes (VAT 22%)</p>
-
