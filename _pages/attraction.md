@@ -11,15 +11,15 @@ nav_order: 7
 
 Bologna offers several attractions for tourists as shown in the following (but not limited to)
 
-1. <u>Discover Bologna</u>
-2. <u>Along the Tasty Way</u>
-3. <u>Cooking Class</u>
-4. <u>Bologna Wine Tour</u>
-5. <u>Flavor of Emilia</u>
-6. <u>Food tour in Bologna alleys</u>
-7. <u>Ferrari Experience</u>
-8. <u>Bologna Walking Tour</u>
-9. <u>[Aroma Speciality Coffees](https://www.ilpiaceredelcaffe.it/thebaristareferencebook)</u>
+1. Discover Bologna
+2. Along the Tasty Way
+3. Cooking Class
+4. Bologna Wine Tour
+5. Flavor of Emilia
+6. Food tour in Bologna alleys
+7. Ferrari Experience
+8. Bologna Walking Tour
+9. [Aroma Speciality Coffees](https://www.ilpiaceredelcaffe.it/thebaristareferencebook)
 
 Furthermore, you can organize a day trip to Florence and Pisa from Bologna.
 
