@@ -11,12 +11,12 @@ nav_order: 7
 
 Bologna offers several attractions for tourists as shown in the following (but not limited to)
 
-1. Discover Bologna
+1. [Discover Bologna](https://www.bolognawelcome.com/en/experiences/298939/Discover-Bologna---City-centre-walking-tour)
 2. Along the Tasty Way
-3. Cooking Class
+3. [Bologna Cooking Class](https://cookingschoolbologna.com)
 4. Bologna Wine Tour
 5. Flavor of Emilia
-6. Food tour in Bologna alleys
+6. Food tour in Bologna valleys
 7. [Ferrari Experience](https://www.ferrari.com/en-EN/museums/personalised-experience)
 8. Bologna Walking Tour
 9. [Aroma Speciality Coffees](https://www.ilpiaceredelcaffe.it/thebaristareferencebook)
