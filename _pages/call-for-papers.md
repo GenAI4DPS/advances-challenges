@@ -19,7 +19,7 @@ nav_order: 2
   <li>
     <!-- <span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>  -->
     <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span> 
-    <strong>Paper submission deadline:</strong> <u>July 20, 2024</u> 
+    <strong>Paper submission deadline:</strong> </strong> <s>July 20, 2024</s> <u>July 31, 2024</u> 
   </li>
   <li>
     <span class="fa-li"><i class="far fa-square"></i></span> 
