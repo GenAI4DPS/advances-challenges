@@ -19,7 +19,8 @@ Bologna offers several attractions for tourists as shown in the following (but n
 6. <u>Food tour in Bologna alleys</u>
 7. <u>Ferrari Experience</u>
 8. <u>Bologna Walking Tour</u>
+9. <u>Aroma Speciality Coffees</u>
 
-Furthermore, you can organize a a day trip to Florence and Pisa from Bologna.
+Furthermore, you can organize a day trip to Florence and Pisa from Bologna.
 
 
