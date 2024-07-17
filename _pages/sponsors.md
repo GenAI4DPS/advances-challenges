@@ -21,7 +21,7 @@ nav_order: 8
     <tbody>
       <tr>
         <td><strong>Sponsorship Level</strong></td>
-        <td><strong>Double Diamond</strong></td>
+        <td><strong>Executive Diamond</strong></td>
         <td><strong>Diamond</strong></td>
         <td><strong>Platinum</strong></td>
         <td><strong>Titanium</strong></td>
