@@ -141,5 +141,3 @@ nav_order: 9
     </tbody>
   </table>
 </figure>
-
-<p>**includes main conference, workshop, PhD symposium and social events</p>
