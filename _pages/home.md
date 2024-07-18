@@ -17,7 +17,7 @@ SDPS has been at the forefront of transdisciplinary research, transformative sci
 
 Researchers and Technologists willing to participate in the conference should submit a paper through the EasyChair, passing through a double-blind review phase.
 
-The submission deadline is **July, 20, 2024**. Conference proceedings will be published in [Springer Nature](https://www.springernature.com/gp/authors).
+The submission deadline is extended **July, 31, 2024**. Conference proceedings will be published in [Springer Nature](https://www.springernature.com/gp/authors).
 
 ### Program committee chairs
 
