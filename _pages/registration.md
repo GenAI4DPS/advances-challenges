@@ -71,5 +71,5 @@ nav_order: 5
 
 <p>**includes main conference, workshop, PhD symposium and social events</p>
 
-For the registration please go directly to the [SDPS](https://sdpstest.com/sdps2024-registration/register) site.
+For the registration fee payment please go directly to the [SDPS](https://sdpstest.com/sdps2024-registration/register) site.
 
