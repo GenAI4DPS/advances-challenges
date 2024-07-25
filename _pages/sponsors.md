@@ -141,3 +141,5 @@ nav_order: 8
     </tbody>
   </table>
 </figure>
+
+For the sponsorship payment please go directly to the [SDPS](https://sdpstest.com/sponsorship) site.
