@@ -19,7 +19,11 @@ We are all aware of the ambiguity and complexity of and applying AI/GenAI in sci
 In this workshop we would like to demonstrate and debate the role of GenAI in knowledge discoveries and evaluate the efficiency and reliability of the powerful text/image/graphics/multimedia creation and retrieval across the biomedical science. The amount of data and knowledge generated is unprecedented and we practically have no means of their instant, effective and accurate discoveries and sharing. Numerous discoveries in biology, chemistry, medicine, healthcare, computer science and biomedicine itself are happening now, as we speak/write and it is plausible that GenAI can help in finding new knowledge and disseminating it We will show, evaluate and debate 5 different examples of using GenAI and associated technologies in obtaining and composing information which could answer difficult questions we may have in
 
 a) enzyme (de)activation in fighting diseases and creating drugs,
+
 b) treatment plan creation for addressing mental health symptoms,
+
 c) one-drug-multiple-targets formulations in Polypharmacology
+
 d) data discoveries and their semantic overlapping for continuous drug repurposing and
+
 e) evaluation of Tf/TfR endosomal recycling in the cellular process.
