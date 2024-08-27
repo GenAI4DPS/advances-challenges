@@ -48,8 +48,6 @@ Please contact John Carbone.
 
 <u>Workshop 3: AI/GenAI for Transportation and Autonomous Vehicles</u>
 
-Review Autonomous Vehicles: The Evolution of Artificial Intelligence and Current Industry Landscape
-
 This workshop addresses our new era of transportation where software technology, engineering, and automation, supported by AI/GenAI technologies, have made a difference in the way we perceive and envisage the future of mobility in either reality or cyber-physical spaces. Autonomous vehicles have made a huge impact on modern transportation, because they have turned our
 perception on what the automation can bring upside down. They have reshaped our vision on the level of autonomy we can expect from items, vehicles, humans and transportation infrastructure for achieving common goals: autonomous decision making in constantly changeable environments, and reasoning which may resemble a human way of managing situations in traffic.
 
