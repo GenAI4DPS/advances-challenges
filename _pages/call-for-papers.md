@@ -17,16 +17,16 @@ nav_order: 2
     <strong>Conference announcement:</strong> <u>May 1st, 2024</u>
   </li>
   <li>
-    <!-- <span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>  -->
-    <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span> 
+    <span class="fa-li"><i class="fas fa-check-square"></i></span> 
     <strong>Paper submission deadline:</strong> <s>July 20, 2024</s> <u>August 19, 2024</u> 
   </li>
   <li>
-    <span class="fa-li"><i class="far fa-square"></i></span> 
+    <span class="fa-li"><i class="far fa-check-square"></i></span> 
     <strong>Notification of Acceptance:</strong> <u>August 25, 2024</u>
   </li>
   <li>
-    <span class="fa-li"><i class="far fa-square"></i></span> 
+    <!-- <span class="fa-li"><i class="far fa-square"></i></span> -->
+    <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span> 
     <strong>Camera ready papers due:</strong> <u>September 10, 2024</u>
   </li>
   <li>
