@@ -50,7 +50,7 @@ nav_order: 6
       <tr>
         <td>Student</td>
         <td>200€</td>
-        <td>300€</td>
+        <td>250€</td>
         <td>100€</td>
       </tr>
       <tr>
