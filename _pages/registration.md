@@ -5,7 +5,7 @@ title: Registration
 page_title: Registration
 page_description: 
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ### Fees
