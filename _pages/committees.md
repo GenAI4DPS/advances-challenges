@@ -5,7 +5,7 @@ title: Committes
 page_title: Committes
 description:
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ### Program Committee Chairs
