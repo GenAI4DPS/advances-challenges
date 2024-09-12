@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /accepted-papers/
-title: accepted papers
+title: Accepted Papers
 page_title: Accepted papers
 description:
 nav: true
