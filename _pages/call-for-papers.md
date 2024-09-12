@@ -25,7 +25,7 @@ nav_order: 2
     <strong>Notification of Acceptance:</strong> <u>August 25, 2024</u>
   </li>
   <li>
-    <span class="fa-li"><i class="far fa-square"></i></span>
+    <span class="fa-li"><i class="far fa-check-square"></i></span>
     <strong>Camera ready papers due:</strong> <u>September 10, 2024</u>
   </li>
   <li>
