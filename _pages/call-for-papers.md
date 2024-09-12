@@ -25,12 +25,12 @@ nav_order: 2
     <strong>Notification of Acceptance:</strong> <u>August 25, 2024</u>
   </li>
   <li>
-    <!-- <span class="fa-li"><i class="far fa-square"></i></span> -->
-    <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span> 
+    <span class="fa-li"><i class="far fa-square"></i></span>
     <strong>Camera ready papers due:</strong> <u>September 10, 2024</u>
   </li>
   <li>
-    <span class="fa-li"><i class="far fa-square"></i></span> 
+    <!-- <span class="fa-li"><i class="far fa-square"></i></span> -->
+    <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span> 
     <strong>Official workshop programme available:</strong> <u>September 23, 2024</u>
   </li>
 </ol>
