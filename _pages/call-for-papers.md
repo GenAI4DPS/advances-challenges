@@ -13,7 +13,7 @@ nav_order: 2
 <ol class="fa-ul">
   <!--<li><span class="fa-li"><i class="fas fa-check-square"></i></span>List icons can</li>--> <!-- To Be Used when deadline is meet -->
   <li>
-    <span class="fa-li"><i class="far fa-check-square"></i></span>
+    <span class="fa-li"><i class="fas fa-check-square"></i></span>
     <strong>Conference announcement:</strong> <u>May 1st, 2024</u>
   </li>
   <li>
@@ -21,11 +21,11 @@ nav_order: 2
     <strong>Paper submission deadline:</strong> <s>July 20, 2024</s> <u>August 19, 2024</u> 
   </li>
   <li>
-    <span class="fa-li"><i class="far fa-check-square"></i></span> 
+    <span class="fa-li"><i class="fas fa-check-square"></i></span> 
     <strong>Notification of Acceptance:</strong> <u>August 25, 2024</u>
   </li>
   <li>
-    <span class="fa-li"><i class="far fa-check-square"></i></span>
+    <span class="fa-li"><i class="fas fa-check-square"></i></span>
     <strong>Camera ready papers due:</strong> <u>September 10, 2024</u>
   </li>
   <li>
