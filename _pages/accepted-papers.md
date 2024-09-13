@@ -17,9 +17,9 @@ nav_order: 5
 
 **Track** 
 
- . **Authors** - Georgi V. Georgiev, Nazmul Mahmud and Md Mobusshar Islam
- . **Title** - AI Enabling Design Thinking: Exploring the Impact of Generative AI on Creative Design
- . **Abstract** - Design is in a new era following the introduction of Generative AI (Gen AI), which offers tools that can automate different aspects of creative processes, thereby enhancing them. These tools provide opportunities for integrating generative AI into design. However, several ethical issues, including biases, need to be considered while adopting this technology. Biases caused by training data often result in non-inclusive and repetitive outcomes, hence constraining creativity and perpetuating stereotypes. This research investigates how generative AI can be employed under the framework of Design Thinking to trigger inventiveness, along with the need for structured ethical guidelines. After evaluating 30 different AI tools, we discovered that Generative AI can be utilized in various stages of Design Thinking depending on its functionality. Furthermore, the discussion includes the importance of prompt engineering, data diversity in AI models, and how human-AI collaboration can enhance the quality of AI-generated content and transform the creative industries.
+ - **Authors** - Georgi V. Georgiev, Nazmul Mahmud and Md Mobusshar Islam
+ - **Title** - AI Enabling Design Thinking: Exploring the Impact of Generative AI on Creative Design
+ - **Abstract** - Design is in a new era following the introduction of Generative AI (Gen AI), which offers tools that can automate different aspects of creative processes, thereby enhancing them. These tools provide opportunities for integrating generative AI into design. However, several ethical issues, including biases, need to be considered while adopting this technology. Biases caused by training data often result in non-inclusive and repetitive outcomes, hence constraining creativity and perpetuating stereotypes. This research investigates how generative AI can be employed under the framework of Design Thinking to trigger inventiveness, along with the need for structured ethical guidelines. After evaluating 30 different AI tools, we discovered that Generative AI can be utilized in various stages of Design Thinking depending on its functionality. Furthermore, the discussion includes the importance of prompt engineering, data diversity in AI models, and how human-AI collaboration can enhance the quality of AI-generated content and transform the creative industries.
 
 
 
