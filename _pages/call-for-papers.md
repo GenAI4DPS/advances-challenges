@@ -31,7 +31,7 @@ nav_order: 2
   <li>
     <!-- <span class="fa-li"><i class="far fa-square"></i></span> -->
     <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span> 
-    <strong>Official workshop programme available:</strong> <u>September 23, 2024</u>
+    <strong>Official workshop programme available:</strong> <s>September 23, 2024</s> <u>September 24, 2024</u> 
   </li>
 </ol>
 
