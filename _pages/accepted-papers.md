@@ -28,7 +28,7 @@ nav_order: 5
  - **Authors** - Raghav Vadera and John Carbone
    - **Title** - Peace of Mind: Cyber Resilience using Self-Evolving Optimized Neural Network Architecture
 
-**Track 2** 
+**Track 2**: _Challenges in Generative AI and Language Models_ 
 
  - **Authors** - Tracy Jeng Yee Jong, Wan-Tze Vong, Joel Chia Ming Than, Brian Chung Shiong Loh and Patrick Hang Hui Then
    - **Title** - Utilising Knowledge Graphs and Natural Language Generation to Enhance Chronic Disease Management through Personalised Recommendations
@@ -51,7 +51,7 @@ nav_order: 5
  - **Authors** - Ali Mohammadi and Yong Zeng
    - **Title** - Simulating Conflict Resolution in Axiomatic Theory of Design Modeling: Insights into Developing Conflict Resolution Chatbots
 
-**Track 3** 
+**Track 3**: _AI and Applied Science_ 
 
  - **Authors** - Fernando García-Avello Bofías, Alessandro Bombini, Chiara Ruberto and Francesco Taccetti
    - **Title** - Privileged Bases for X-Ray Fluorescence Spectra Robust Automatic Classification
@@ -74,7 +74,7 @@ nav_order: 5
  - **Authors** - Giovanni Zurlo and Elisabetta Ronchieri
    - **Title** - AI-Based Medical Imaging of COVID-19: A Visual and Textual Analysis of Scientific Literature
 
-**Track 4** 
+**Track 4**: _AI/GenAI Applications and Computational Platforms_ 
 
  - **Authors** - Radmila Juric
    - **Title** - Mediating Mental Disorder Diagnosis and Treatments through Computational Psychiatry
