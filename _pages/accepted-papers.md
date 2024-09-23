@@ -8,7 +8,7 @@ nav: true
 nav_order: 5
 ---
 
-**Track 1** 
+**Track 1**: _Misconceptions of Using AI/GenAI in Design and Process Science_ 
 
  - **Authors** - Georgi V. Georgiev, Nazmul Mahmud and Md Mobusshar Islam
    - **Title** - AI Enabling Design Thinking: Exploring the Impact of Generative AI on Creative Design
