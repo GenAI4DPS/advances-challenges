@@ -36,7 +36,7 @@ nav_order: 2
   <li>
     <!-- <span class="fa-li"><i class="far fa-square"></i></span> -->
     <span class="fa-li"><i class="fas fa-atom fa-spin"></i></span> 
-    <strong>Official conference programme available:<u>September 25, 2024</u> 
+    <strong>Official conference programme available:</strong> <u>September 25, 2024</u> 
   </li>
 </ol>
 
