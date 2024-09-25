@@ -14,7 +14,7 @@ Day | Timeline | Room | Contribution Type | Speaker | Title
 ---|---|---|---|---|---
 10/06/2024 |  9:00 - 10:30 | Madrid | Conference Opening| Prof. Patrick HangHui Then |
 10/06/2024 |  9:00 - 10:30 | Madrid | Keynote Speech | Prof. Patrick HangHui Then |
-<r>10/06/2024 | 10:30 - 11:00 | Coffee Break Space | Coffee Break||</r>
+<span style='color: red;'>10/06/2024 | 10:30 - 11:00 | Coffee Break Space | Coffee Break||</span>
 10/06/2024 | 11:00 - 13:00 | Madrid | ||
 10/06/2024 | 14:30 - 18:30 | Madrid | ||
 10/06/2024 | 19:00 - 21:00 | Coffee Break Space | Cocktail||
