@@ -5,7 +5,7 @@ title: Sponsors
 page_title: Sponsors
 page_description: 
 nav: true
-nav_order: 10
+nav_order: 11
 ---
 
 ### Options
