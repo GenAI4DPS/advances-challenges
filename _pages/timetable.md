@@ -1,20 +1,20 @@
 ---
 layout: page
 permalink: /timetable/
-title: TimeTable
-page_title: Time Table
+title: Timetable
+page_title: Timetable October 6-9, 2024
 description:
 nav: true
 nav_order: 6
 ---
 
-### Time Table October 6-9, 2024
+### Under Construction
 
 Day | Timeline | Room | Contribution Type | Speaker | Title
 ---|---|---|---|---|---
 10/06/2024 |  9:00 - 10:30 | Madrid | Conference Opening| Prof. Patrick HangHui Then |
 10/06/2024 |  9:00 - 10:30 | Madrid | Keynote Speech | Prof. Patrick HangHui Then |
-10/06/2024 | 10:30 - 11:00 | Coffee Break Space | Coffee Break||
+<r>10/06/2024 | 10:30 - 11:00 | Coffee Break Space | Coffee Break||</r>
 10/06/2024 | 11:00 - 13:00 | Madrid | ||
 10/06/2024 | 14:30 - 18:30 | Madrid | ||
 10/06/2024 | 19:00 - 21:00 | Coffee Break Space | Cocktail||
