@@ -11,7 +11,7 @@ Day | Timeline | Room | Contribution Type | Speaker | Title
 
 Day | Timeline | Room | Contribution Type | Speaker | Title
 ---|---|---|---|---|---
-10/07/2024 |  9:00 - 10:30 | Madrid | Keynote Speech| Dr. Tiziana Ferrari |
+10/07/2024 |  9:00 - 10:30 | Madrid | Keynote Speech| Dr. Tiziana Ferrari | Data-intensive computing towards 2030: challenges and opportunities
 10/07/2024 |  9:00 - 10:30 | Madrid |  ||
 10/07/2024 | 10:30 - 11:00 | Coffee Break Space | Coffee Break ||
 10/07/2024 | 11:00 - 13:00 | Madrid | ||
@@ -24,7 +24,7 @@ Day | Timeline | Room | Contribution Type | Speaker | Title
 
 Day | Timeline | Room | Contribution Type | Speaker | Title
 ---|---|---|---|---|---
-10/08/2024 |  9:00 - 10:30 | Madrid | Keynote Speech ||
+10/08/2024 |  9:00 - 10:30 | Madrid | Keynote Speech | Prof. Ishfaq Ahmad | AI-Enabled Robots for Smart Health: Some Key Research and Privacy/Security Challenges
 10/08/2024 |  9:00 - 10:30 | Madrid |  ||
 10/08/2024 | 10:30 - 11:00 | Coffee Break Space | Coffee Break ||
 10/08/2024 | 11:00 - 13:00 | Madrid | ||
