@@ -1,3 +1,13 @@
+---
+layout: page
+permalink: /timetable/
+title: TimeTable
+page_title: Time Table
+description:
+nav: true
+nav_order: 6
+---
+
 ### Time Table October 6-9, 2024
 
 Day | Timeline | Room | Contribution Type | Speaker | Title
