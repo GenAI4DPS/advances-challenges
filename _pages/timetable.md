@@ -14,9 +14,7 @@ Day | Timeline | Room | Contribution Type | Speaker | Title
 ---|---|---|---|---|---
 10/06/2024 |  9:00 - 10:30 | Madrid | Conference Opening| Prof. Elisabetta Ronchieri |
 10/06/2024 |  9:00 - 10:30 | Madrid | Keynote Speech | Prof. Patrick HangHui Then |
-<span style='color: red;'>10/06/2024</span> | <span style='color: red;'>10:30 - 11:00</span>  | 
-<span style='color: red;'>Coffee Break Space</span> | 
-<span style='color: red;'>Coffee Break</span>||
+<span style='color: red;'>10/06/2024</span> | <span style='color: red;'>10:30 - 11:00</span> | <span style='color: red;'>Coffee Break Space</span> | <span style='color: red;'>Coffee Break</span>||
 10/06/2024 | 11:00 - 13:00 | Madrid | ||
 10/06/2024 | 14:30 - 18:30 | Madrid | ||
 10/06/2024 | 19:00 - 21:00 | Coffee Break Space | Cocktail||
