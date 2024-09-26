@@ -34,6 +34,8 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 <span style='color: red;'>10/06/2024</span> | <span style='color: red;'>19:00 - 21:00</span> | <span style='color: red;'>Coffee Break Space</span> | |<span style='color: red;'>Cocktail</span>|||
 
 
+
+
 Day | Timeline | Room | Contribution Type | Speaker | Title
 ---|---|---|---|---|---
 10/07/2024 |  9:00 - 10:30 | Madrid | Keynote Speech| Dr. Tiziana Ferrari | Data-intensive computing towards 2030: challenges and opportunities
