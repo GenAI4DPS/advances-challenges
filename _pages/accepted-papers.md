@@ -23,7 +23,7 @@ nav_order: 5
    - **Title** - Adversarial Attacks in Medical Deep Learning System
 
  - **Authors** - Abdul Rahman Mohd Aizuddin, Brian Loh Chung Shiong and Patrick Then Hang Hui
-   - **Title** - Digitization Protocol for Histology image Acquisition
+   - **Title** - Digitization Protocol for Histology Image Acquisition
 
  - **Authors** - Raghav Vadera and John Carbone
    - **Title** - Peace of Mind: Cyber Resilience using Self-Evolving Optimized Neural Network Architecture
