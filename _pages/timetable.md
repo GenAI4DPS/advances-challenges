@@ -15,6 +15,7 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/06/2024 |  9:00 - 10:30 | Madrid | 9:00 - 9:10 | Conference Opening| Prof. Elisabetta Ronchieri | Opening Ceremony
 10/06/2024 |  9:00 - 10:30 | Madrid | 9:10 - 9:45 | Keynote Speech | Prof. Patrick HangHui Then | Application of Artificial Intelligence in Healthcare Malaysia
 ---|---|---|---|---|---|---
+---|---|---|---|---|---|---
 10/06/2024 |  9:00 - 10:30 | Madrid | 9:50 - 10:00 | Track 1 | Prof. John Carbone | Opening Track 1
 10/06/2024 |  9:00 - 10:30 | Madrid | 10:00 - 10:25 | Track 1 | Georgi V. Georgiev | AI Enabling Design Thinking: Exploring the Impact of Generative AI on Creative Design
 <span style='color: red;'>10/06/2024</span> | <span style='color: red;'>10:30 - 11:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
@@ -23,6 +24,7 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/06/2024 | 11:00 - 13:00 | Madrid | 12:00 - 12:25 | Track 1 | Young Kang Lau | Adversarial Attacks in Medical Deep Learning System
 10/06/2024 | 11:00 - 13:00 | Madrid | 12:30 - 12:55 | Track 1 | Abdul Rahman Mohd Aizuddin | Digitization Protocol for Histology Image Acquisition
 10/06/2024 | 14:30 - 18:30 | Madrid | 14:30 - 14:55 | Track 1 | Raghav Vadera | Peace of Mind: Cyber Resilience using Self-Evolving Optimized Neural Network Architecture
+---|---|---|---|---|---|---
 ---|---|---|---|---|---|---
 10/06/2024 | 14:30 - 18:30 | Madrid | 15:30 - 15:40 | Track 2 | Prof. Elisabetta Ronchieri | Opening Track 2
 10/06/2024 | 14:30 - 18:30 | Madrid | 15:20 - 15:45 | Track 2 | Tracy Jeng Yee Jong | Utilising Knowledge Graphs and Natural Language Generation to Enhance Chronic Disease Management through Personalised Recommendations
