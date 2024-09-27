@@ -50,10 +50,9 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/07/2024 | 14:30 - 16:30 | Madrid | 14:30 - 14:55 | <span style='color: blue;'>Track 3</span> | Jiami Yang | Unearthing Stakeholder Behaviour Patterns to Enhance Sustainable Product Design
 10/07/2024 | 14:30 - 16:30 | Madrid | 15:00 - 15:25 | <span style='color: blue;'>Track 3</span> | Giovanni Zurlo | AI-based Medical Imaging of COVID-19: A Visual and Textual Analysis of Scientific Literature
 10/07/2024 | 14:30 - 16:30 | Madrid | 15:30 - 15:55 | <span style='color: blue;'>Track 3</span> |  | 
-10/07/2024 | 14:30 - 16:30 | Madrid | ||
 <span style='color: red;'>10/07/2024</span> | <span style='color: red;'>16:30 - 17:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
 10/07/2024 | 17:00 - 19:00 | Madrid | 17:00 - 19:00 | Workshop 2 | John Carbone | AI/GenAI for Secondary to Advanced University Education
-10/07/2024 | 14:30 - 19:00 | Berlino | ||
+10/07/2024 | 14:30 - 19:00 | Berlino |14:30 - 19:00 ||
 
 
 Day | Timeline | Room | Contribution Type | Speaker | Title
