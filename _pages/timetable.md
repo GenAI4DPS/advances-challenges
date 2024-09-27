@@ -81,12 +81,14 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/09/2024 |  9:00 - 10:30 | Madrid | 9:00 - 9:10 | Conference Opening | Elisabetta Ronchieri | Conference Opening
 10/09/2024 |  9:00 - 10:30 | Madrid | 9:10 - 10:20 | Keynote Speech| Silvana Di Sabatino | 
 <span style='color: red;'>10/09/2024</span> | <span style='color: red;'>10:30 - 11:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
-10/08/2024 | 11:00 - 12:00 | Madrid | 11:00 - 11:55 | Workshop 3  | Radmila Juric | AI/GenAI for Transportation and Autonomous Vehicles
+10/08/2024 | 11:00 - 12:00 | Madrid | 11:00 - 11:45 | Workshop 3  | Radmila Juric | AI/GenAI for Transportation and Autonomous Vehicles
 ||||||
-10/08/2024 | 11:00 - 13:00 | Madrid | 12:00 - 12:15 | <span style='color: blue;'>Track 1</span>  | John Carbone | Summary
-10/08/2024 | 11:00 - 13:00 | Madrid | 12:15 - 12:30 | <span style='color: green;'>Track 2</span>  | Elisabetta Ronchieri| Summary
-10/08/2024 | 11:00 - 13:00 | Madrid | 12:30 - 12:45 | <span style='color: magenta;'>Track 3</span>  | Radmila Juric | Summary
-10/08/2024 | 11:00 - 13:00 | Madrid | 12:45 - 12:00 | <span style='color: brown;'>Track 4</span>  | Patrick Hang Hui | Summary
+10/08/2024 | 11:00 - 13:00 | Madrid | 11:50 - 12:05 | <span style='color: blue;'>Track 1</span>  | John Carbone | Summary
+10/08/2024 | 11:00 - 13:00 | Madrid | 12:05 - 12:20 | <span style='color: green;'>Track 2</span>  | Elisabetta Ronchieri| Summary
+10/08/2024 | 11:00 - 13:00 | Madrid | 12:20 - 12:35 | <span style='color: magenta;'>Track 3</span>  | Radmila Juric | Summary
+10/08/2024 | 11:00 - 13:00 | Madrid | 12:35 - 12:50 | <span style='color: brown;'>Track 4</span>  | Patrick Hang Hui | Summary
+10/08/2024 | 11:00 - 13:00 | Madrid | 12:50 - 13:00 | Conference Closing  | Elisabetta Ronchieri | Closing Ceremomy
+
 
 
 
