@@ -42,9 +42,6 @@ nav_order: 5
  - **Authors** - Francesco Zangrillo, Stefano Lodi and Gianluca Moro 
    - **Title** - Diagnosing the Optimal Prompt Trick: A Case Study on the Effectiveness of Prompt Engineering in Medical Question Answering
 
- - **Authors** - Lurong Pan
-   - **Title** - Design and feasibility study of Internet based knowledge tracking and mapping system for life long education
-
  - **Authors** - Bridget Wu, Cameron Jones, Ishfaq Ahmad and Addison Clark
    - **Title** - A Quick Overview of Robot Cooking
 
