@@ -60,15 +60,15 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/08/2024 |  9:00 - 10:30 | Madrid | 9:00 - 9:10 | Conference Opening | Elisabetta Ronchieri | Conference Opening
 10/08/2024 |  9:00 - 10:30 | Madrid | 9:10 - 9:45 | Keynote Speech| Ishfaq Ahmad | AI-Enabled Robots for Smart Health: Some Key Research and Privacy/Security Challenges
 ||||||
-10/08/2024 |  9:00 - 10:30 | Madrid | 9:50 - 10:00 | <span style='color: yellow;'>Track 4</span> | Patrick Hang Hui Then | Opening Track 4
-10/08/2024 |  9:00 - 10:30 | Madrid | 10:00 - 10:25 | <span style='color: yellow;'>Track 4</span> | Radmila Juric | Mediating Mental Disorder Diagnosis and Treatments through Computational Psychiatry
+10/08/2024 |  9:00 - 10:30 | Madrid | 9:50 - 10:00 | <span style='color: brown;'>Track 4</span> | Patrick Hang Hui Then | Opening Track 4
+10/08/2024 |  9:00 - 10:30 | Madrid | 10:00 - 10:25 | <span style='color: brown;'>Track 4</span> | Radmila Juric | Mediating Mental Disorder Diagnosis and Treatments through Computational Psychiatry
 <span style='color: red;'>10/08/2024</span> | <span style='color: red;'>10:30 - 11:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
-10/08/2024 | 11:00 - 13:00 | Madrid | 11:00 - 11:25 | <span style='color: yellow;'>Track 4</span> | Mattia Ricchi | Hardware Accelaration for Ultra-fast Neural Network training on FPGA for MRF map reconstruction
-10/08/2024 | 11:00 - 13:00 | Madrid | 11:30 - 11:55 | <span style='color: yellow;'>Track 4</span> | Guido Russo | Building a new Data Center for AI applications in High Energy Physics and Astrophysics and in the Digital Humanities
-10/08/2024 | 11:00 - 13:00 | Madrid | 12:00 - 12:25 | <span style='color: yellow;'>Track 4</span> | Addison Clark | Multi-Robot Coordination Workflows for Assistive Healthcare
-10/08/2024 | 11:00 - 13:00 | Madrid | 12:30 - 12:55 | <span style='color: yellow;'>Track 4</span> | Vlad Pavlovich | An Overview of Smart Glasses and some Research Issues
+10/08/2024 | 11:00 - 13:00 | Madrid | 11:00 - 11:25 | <span style='color: brown;'>Track 4</span> | Mattia Ricchi | Hardware Accelaration for Ultra-fast Neural Network training on FPGA for MRF map reconstruction
+10/08/2024 | 11:00 - 13:00 | Madrid | 11:30 - 11:55 | <span style='color: brown;'>Track 4</span> | Guido Russo | Building a new Data Center for AI applications in High Energy Physics and Astrophysics and in the Digital Humanities
+10/08/2024 | 11:00 - 13:00 | Madrid | 12:00 - 12:25 | <span style='color: brown;'>Track 4</span> | Addison Clark | Multi-Robot Coordination Workflows for Assistive Healthcare
+10/08/2024 | 11:00 - 13:00 | Madrid | 12:30 - 12:55 | <span style='color: brown;'>Track 4</span> | Vlad Pavlovich | An Overview of Smart Glasses and some Research Issues
 <span style='color: red;'>10/08/2024</span> | <span style='color: red;'>13:00 - 14:30</span> | <span style='color: red;'>Buffet Space</span> | |<span style='color: red;'>Lunch</span>|||
-10/07/2024 | 14:30 - 16:30 | Madrid | 14:30 - 14:55 | <span style='color: yellow;'>Track 4</span> | Radmila Juric | Reference Software Architecture for Defining Treatments for Mental Disorders
+10/07/2024 | 14:30 - 16:30 | Madrid | 14:30 - 14:55 | <span style='color: brown;'>Track 4</span> | Radmila Juric | Reference Software Architecture for Defining Treatments for Mental Disorders
 ||||||
 10/08/2024 | 14:00 - 16:30 | Madrid | 15:00 - 16:30 | Workshop 2| Radmila Juric | AI/GenAI in Biomedicine and Healthcare: Discoveries and Knowledge Dissemination
 <span style='color: red;'>10/08/2024</span> | <span style='color: red;'>16:30 - 17:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
