@@ -69,8 +69,9 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/08/2024 | 11:00 - 13:00 | Madrid | 12:30 - 12:55 | <span style='color: brown;'>Track 4</span> | Vlad Pavlovich | An Overview of Smart Glasses and some Research Issues
 <span style='color: red;'>10/08/2024</span> | <span style='color: red;'>13:00 - 14:30</span> | <span style='color: red;'>Buffet Space</span> | |<span style='color: red;'>Lunch</span>|||
 10/07/2024 | 14:30 - 16:30 | Madrid | 14:30 - 14:55 | <span style='color: brown;'>Track 4</span> | Radmila Juric | Reference Software Architecture for Defining Treatments for Mental Disorders
+10/07/2024 | 14:30 - 16:30 | Madrid | 15:00 - 15:25 | <span style='color: brown;'>Track 4</span> | Radmila Juric | Digital Twins in Dentistry: the Impact of AI technologies
 ||||||
-10/08/2024 | 14:00 - 16:30 | Madrid | 15:00 - 16:30 | Workshop 2| Radmila Juric | AI/GenAI in Biomedicine and Healthcare: Discoveries and Knowledge Dissemination
+10/08/2024 | 14:00 - 16:30 | Madrid | 15:30 - 16:30 | Workshop 2| Radmila Juric | AI/GenAI in Biomedicine and Healthcare: Discoveries and Knowledge Dissemination
 <span style='color: red;'>10/08/2024</span> | <span style='color: red;'>16:30 - 17:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
 10/08/2024 | 17:00 - 19:00 | Madrid | 17:00 - 19:00 | Workshop 2| Radmila Juric | AI/GenAI in Biomedicine and Healthcare: Discoveries and Knowledge Dissemination
 10/08/2024 | 14:30 - 19:00 | Berlino |14:30 - 19:00 ||
