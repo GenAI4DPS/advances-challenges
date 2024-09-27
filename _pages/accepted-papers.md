@@ -73,7 +73,7 @@ nav_order: 5
 
 **Track 4**: _AI/GenAI Applications and Computational Platforms_ 
 
- - **Authors** - _Radmila Juric_
+ - **Authors** - _Radmila Juric_, Eiman Almami, Ibtesim Almami, Boris Sver
    - **Title** - Mediating Mental Disorder Diagnosis and Treatments through Computational Psychiatry
  
  - **Authors** - _Mattia Ricchi_, Fabrizio Alfonsi, Camilla Marella, Marco Barbieri, Alessandra Retico, Leonardo Brizi, Alessandro Gabrielli and Claudia Testa
