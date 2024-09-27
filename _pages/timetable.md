@@ -22,9 +22,10 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/06/2024 | 11:00 - 13:00 | Madrid | 11:30 - 11:55 | <span style='color: blue;'>Track 1</span> | Jason Thomas Chew | Image-based Arrhythmia Classification from Electrocardiogram Data Using Metric Learning Techniques
 10/06/2024 | 11:00 - 13:00 | Madrid | 12:00 - 12:25 | <span style='color: blue;'>Track 1</span> | Young Kang Lau | Adversarial Attacks in Medical Deep Learning System
 10/06/2024 | 11:00 - 13:00 | Madrid | 12:30 - 12:55 | <span style='color: blue;'>Track 1</span> | Abdul Rahman Mohd Aizuddin | Digitization Protocol for Histology Image Acquisition
+<span style='color: red;'>10/06/2024</span> | <span style='color: red;'>13:00 - 14:30</span> | <span style='color: red;'>Free</span> | |<span style='color: red;'>Lunch</span>|||
 10/06/2024 | 14:30 - 18:30 | Madrid | 14:30 - 14:55 | <span style='color: blue;'>Track 1</span> | Raghav Vadera | Peace of Mind: Cyber Resilience using Self-Evolving Optimized Neural Network Architecture
 ||||||
-10/06/2024 | 14:30 - 18:30 | Madrid | 15:30 - 15:40 | <span style='color: green;'>Track 2</span> | Elisabetta Ronchieri | Opening Track 2
+10/06/2024 | 14:30 - 18:30 | Madrid | 15:00 - 15:10 | <span style='color: green;'>Track 2</span> | Elisabetta Ronchieri | Opening Track 2
 10/06/2024 | 14:30 - 18:30 | Madrid | 15:20 - 15:45 | <span style='color: green;'>Track 2</span> | Tracy Jeng Yee Jong | Utilising Knowledge Graphs and Natural Language Generation to Enhance Chronic Disease Management through Personalised Recommendations
 10/06/2024 | 14:30 - 18:30 | Madrid | 15:50 - 16:15 | <span style='color: green;'>Track 2</span> | Alberto Trashaj | Advanced NLP Solutions for Enhancing the CNAF User Support
 10/06/2024 | 14:30 - 18:30 | Madrid | 15:20 - 16:45 | <span style='color: green;'>Track 2</span> | Elizabeth Trader | LegalAI for Tracking of Diagnostic Discrepancy Data for Predictive Modeling
@@ -41,13 +42,19 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/07/2024 |  9:00 - 10:30 | Madrid | 9:50 - 10:00 | <span style='color: magenta;'>Track 3</span> | Radmila Juric | Opening Track 3
 10/07/2024 |  9:00 - 10:30 | Madrid | 10:00 - 10:25 | <span style='color: magenta;'>Track 3</span> | Fernando Garcia-Avello Bofias | Privileged Bases for X-Ray Fluorescence Spectra Robust Automatic Classification
 <span style='color: red;'>10/07/2024</span> | <span style='color: red;'>10:30 - 11:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
-10/07/2024 | 11:00 - 13:00 | Madrid | ||
-10/07/2024 | 13:00 - 14:00 | Buffet Space | Lunch ||
-10/07/2024 | 14:00 - 16:30 | Madrid | ||
+10/07/2024 | 11:00 - 13:00 | Madrid | 11:00 - 11:25 | <span style='color: magenta;'>Track 3</span> | Marco Canaparo | Transformer-based Models to Assist COVID-19 Literature Screening
+10/07/2024 | 11:00 - 13:00 | Madrid | 11:30 - 11:55 | <span style='color: magenta;'>Track 3</span> | Megi Ceka | Leveraging Topic Modeling when Exploring Literature on the Impact of Climate Change to Cultural Heritage
+10/07/2024 | 11:00 - 13:00 | Madrid | 12:00 - 12:25 | <span style='color: magenta;'>Track 3</span> | Roshan Fernando | A Web Platform for Documentation and Feedback on Learning in Design Education
+10/07/2024 | 11:00 - 13:00 | Madrid | 12:30 - 12:55 | <span style='color: magenta;'>Track 3</span> | Shanmugapriyaa Kr | An Intensive Study on Leveraging Convolution Neural Network for Bird Species Identification through Vocalization
+<span style='color: red;'>10/07/2024</span> | <span style='color: red;'>13:00 - 14:30</span> | <span style='color: red;'>Buffet Space</span> | |<span style='color: red;'>Lunch</span>|||
+10/07/2024 | 14:30 - 16:30 | Madrid | 14:30 - 14:55 | <span style='color: blue;'>Track 3</span> | Jiami Yang | Unearthing Stakeholder Behaviour Patterns to Enhance Sustainable Product Design
+10/07/2024 | 14:30 - 16:30 | Madrid | 15:00 - 15:25 | <span style='color: blue;'>Track 3</span> | Giovanni Zurlo | AI-based Medical Imaging of COVID-19: A Visual and Textual Analysis of Scientific Literature
+10/07/2024 | 14:30 - 16:30 | Madrid | 15:30 - 15:55 | <span style='color: blue;'>Track 3</span> |  | 
+10/07/2024 | 14:30 - 16:30 | Madrid | ||
 <span style='color: red;'>10/07/2024</span> | <span style='color: red;'>16:30 - 17:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
-10/07/2024 | 17:00 - 19:00 | Madrid |  ||
-10/07/2024 | 14:00 - 16:30 | Berlino | ||
-10/07/2024 | 17:00 - 19:00 | Berlino |  ||
+10/07/2024 | 17:00 - 19:00 | Madrid | 17:00 - 19:00 | Workshop 2 | John Carbone | AI/GenAI for Secondary to Advanced University Education
+10/07/2024 | 14:30 - 19:00 | Berlino | ||
+
 
 Day | Timeline | Room | Contribution Type | Speaker | Title
 ---|---|---|---|---|---
