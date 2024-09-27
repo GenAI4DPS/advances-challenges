@@ -13,7 +13,7 @@ nav_order: 5
  - **Authors** - _Georgi V. Georgiev_, Nazmul Mahmud and Md Mobusshar Islam
    - **Title** - AI Enabling Design Thinking: Exploring the Impact of Generative AI on Creative Design
 
- - **Authors** - _Khaled Elkarazle_, Valliappan Raman, Caslon Chua and Patrick Then
+ - **Authors** - _Khaled Elkarazle_, Valliappan Raman, Caslon Chua and Patrick Hang Hui Then
    - **Title** - Healthcare for All: Combating Bias in Generative AI for Fair Medical Outcomes
 
  - **Authors** - _Jason Thomas Chew_, Valliappan Raman and Patrick Hang Hui Then
@@ -62,7 +62,7 @@ nav_order: 5
  - **Authors** - _Roshan Fernando_, Iván Sánchez Milara and Georgi V. Georgiev
    - **Title** - A Web Platform for Documentation and Feedback on Learning in Design Education
 
- - **Authors** - _Shanmugapriyaa Kr_ and Dr Valliappan Raman
+ - **Authors** - _Shanmugapriyaa Kr_ and Valliappan Raman
    - **Title** - An Intensive Study on Leveraging Convolution Neural Network for Bird Species identification through Vocalization	
 
  - **Authors** - _Jiami Yang_, Chenyi Zhang, Siyuan Huang, Hamed A. Shirazi, Monica Bordegoni, Xiao Liu, Hude Quan, Abdessamad Ben Hamza and Yong Zeng
