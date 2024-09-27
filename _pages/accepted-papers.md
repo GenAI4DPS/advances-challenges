@@ -34,7 +34,7 @@ nav_order: 5
    - **Title** - Utilising Knowledge Graphs and Natural Language Generation to Enhance Chronic Disease Management through Personalised Recommendations
 
  - **Authors** - _Alberto Trashaj_, Matteo Barbetti, Elisabetta Ronchieri, Carmelo Pellegrino, Daniele Cesini, Carmen Giugliano, Daniele Lattanzion, Lucia Morganti, Alessandro Pascolini, Andrea Rendina and Aksieniia Shtimmerman
-   - **Title** - Advanced NLP solutions for enhancing the CNAF User Support
+   - **Title** - Advanced NLP Solutions for Enhancing the CNAF User Support
 
  - **Authors** - _Elizabeth Trader_, Adithi Jayaraman, Thuc Luong and Varadraj Gurupur
    - **Title** - LegalAI for Tracking of Diagnostic Discrepancy Data for Predictive Modeling
@@ -63,7 +63,7 @@ nav_order: 5
    - **Title** - A Web Platform for Documentation and Feedback on Learning in Design Education
 
  - **Authors** - _Shanmugapriyaa Kr_ and Valliappan Raman
-   - **Title** - An Intensive Study on Leveraging Convolution Neural Network for Bird Species identification through Vocalization	
+   - **Title** - An Intensive Study on Leveraging Convolution Neural Network for Bird Species Identification through Vocalization	
 
  - **Authors** - _Jiami Yang_, Chenyi Zhang, Siyuan Huang, Hamed A. Shirazi, Monica Bordegoni, Xiao Liu, Hude Quan, Abdessamad Ben Hamza and Yong Zeng
    - **Title** - Unearthing Stakeholder Behaviour Patterns to Enhance Sustainable Product Design
@@ -77,10 +77,10 @@ nav_order: 5
    - **Title** - Mediating Mental Disorder Diagnosis and Treatments through Computational Psychiatry
  
  - **Authors** - _Mattia Ricchi_, Fabrizio Alfonsi, Camilla Marella, Marco Barbieri, Alessandra Retico, Leonardo Brizi, Alessandro Gabrielli and Claudia Testa
-   - **Title** - Hardware acceleration for ultra-fast Neural Network training on FPGA for MRF map reconstruction
+   - **Title** - Hardware Acceleration for Ultra-Fast Neural Network Training on FPGA for MRF Map Reconstruction
 
  - **Authors** - _Guido Russo_, Massimo Brescia, Stefania Conte, Elvira Rossi and Augusto Tortora
-   - **Title** - Building a new Data Center for AI applications in high energy physics and astrophysics and in the Digital Humanities
+   - **Title** - Building a New Data Center for AI Applications in High Energy Physics and Astrophysics and in the Digital Humanities
 
  - **Authors** - _Addison Clark_, Ishfaq Ahmad, Divya Prakash and Manfred Huber
    - **Title** - Multi-Robot Coordination Workflows for Assistive Healthcare
@@ -89,10 +89,10 @@ nav_order: 5
    - **Title** - An Overview of Smart Glasses and Some Research Issues
 
  - **Authors** - _Radmila Juric_, Eiman Almami and Ibtesam Almami
-   - **Title** - Software architectural model for creating treatment plans for mental health symptoms
+   - **Title** - Software Architectural Model for Creating Treatment Plans for Mental Health Symptoms
 
  - **Authors** - _Radmila Juric_ and Harvey Kalsi
-   - **Title** - Digital Twins in Dentistry: The impact of AI technologies
+   - **Title** - Digital Twins in Dentistry: The Impact of AI Technologies
 
  - **Authors** - _Radmila Juric_, Eiman Almami, Ibtesim Almami and Boris Sever
-   - **Title** - Reference software architecture for defining treatments for mental disorders
+   - **Title** - Reference Software Architecture for Defining Treatments for Mental Disorders
