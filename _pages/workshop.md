@@ -10,7 +10,21 @@ nav_order: 4
 
 The GenAI4DPS Conference Workshops are the following:
 
-<u>Workshop 1: AI and GenAI in Biomedicine and Healthcare: Discoveries and Knowledge Dissemination</u>
+<u>Workshop 1: AI/GenAI for Secondary to Advanced University Education</u>
+
+Review AI/GenAI Tools and Services: The Evolution of the Gen AI Landscape and Education Challenges
+
+This workshop addresses a review of the current Gen AI landscape, education challenges, and usage of Gen AI IN and FOR education. We have an opportunity to debate and challenge the impact of AI and GenAI in education and focus on some of the following topics:
+
+a) Current global education challenges and environments
+
+b) Current landscape of GenAI tools and services: the impact of GenAI technologies to questions of acceptance and potential cheating
+
+c) Opportunities for advancing education and methods for implementing AI in and for education
+
+Please contact John Carbone.
+
+<u>Workshop 2: AI and GenAI in Biomedicine and Healthcare: Discoveries and Knowledge Dissemination</u>
 
 This workshop evaluates the power of AI and GenAI in biomedicine, medicine, and healthcare, focusing on their most desirable outcomes: discoveries of scientific knowledge and experiments, research results, and empirical evidence, supported by knowledge dissemination across various biomedical domains, which directly impact medicine and healthcare.
 
@@ -31,20 +45,6 @@ d) data discoveries and their semantic overlapping for continuous drug repurposi
 e) evaluation of Tf/TfR endosomal recycling in the cellular process.
 
 Please contact Radmila Juric.
-
-<u>Workshop 2: AI/GenAI for Secondary to Advanced University Education</u>
-
-Review AI/GenAI Tools and Services: The Evolution of the Gen AI Landscape and Education Challenges
-
-This workshop addresses a review of the current Gen AI landscape, education challenges, and usage of Gen AI IN and FOR education. We have an opportunity to debate and challenge the impact of AI and GenAI in education and focus on some of the following topics:
-
-a) Current global education challenges and environments
-
-b) Current landscape of GenAI tools and services: the impact of GenAI technologies to questions of acceptance and potential cheating
-
-c) Opportunities for advancing education and methods for implementing AI in and for education
-
-Please contact John Carbone.
 
 <u>Workshop 3: AI/GenAI for Transportation and Autonomous Vehicles</u>
 
