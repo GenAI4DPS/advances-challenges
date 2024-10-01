@@ -71,6 +71,9 @@ nav_order: 5
  - **Authors** - _Giovanni Zurlo_ and Elisabetta Ronchieri
    - **Title** - AI-Based Medical Imaging of COVID-19: A Visual and Textual Analysis of Scientific Literature
 
+- **Authors** - _Francesco Durazzi_, Ron Fouchier, and Daniel Remondini
+   - **Title** - NLP application to proteins: the cases of Influenza and SARS-CoV-2
+
 **Track 4**: _AI/GenAI Applications and Computational Platforms_ 
 
  - **Authors** - _Radmila Juric_, Eiman Almami, Ibtesim Almami, Boris Sver
