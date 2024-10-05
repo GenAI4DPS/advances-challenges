@@ -8,8 +8,6 @@ nav: true
 nav_order: 6
 ---
 
-### Under Construction
-
 Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 ---|---|---|---|---|---|---
 10/06/2024 |  9:00 - 10:30 | Madrid | 9:00 - 9:10 | Conference Opening| Elisabetta Ronchieri | Opening Ceremony
