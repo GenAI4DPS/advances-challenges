@@ -24,12 +24,12 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/06/2024 | 14:30 - 18:30 | Madrid | 14:30 - 14:55 | <span style='color: blue;'>Track 1</span> | Raghav Vadera | Peace of Mind: Cyber Resilience using Self-Evolving Optimized Neural Network Architecture
 ||||||
 10/06/2024 | 14:30 - 18:30 | Madrid | 15:00 - 15:10 | <span style='color: green;'>Track 2</span> | Elisabetta Ronchieri | Opening Track 2
-10/06/2024 | 14:30 - 18:30 | Madrid | 15:20 - 15:45 | <span style='color: green;'>Track 2</span> | Tracy Jeng Yee Jong | Utilising Knowledge Graphs and Natural Language Generation to Enhance Chronic Disease Management through Personalised Recommendations
-10/06/2024 | 14:30 - 18:30 | Madrid | 15:50 - 16:15 | <span style='color: green;'>Track 2</span> | Alberto Trashaj | Advanced NLP Solutions for Enhancing the CNAF User Support
-10/06/2024 | 14:30 - 18:30 | Madrid | 15:20 - 16:45 | <span style='color: green;'>Track 2</span> | Elizabeth Trader | LegalAI for Tracking of Diagnostic Discrepancy Data for Predictive Modeling
-10/06/2024 | 14:30 - 18:30 | Madrid | 17:50 - 17:15 | <span style='color: green;'>Track 2</span> | Francesco Zangrillo | Diagnosing the Optimal Prompt Trick: A Case Study on the Effectiveness of Prompt Engineering in Medical Question Answering
-10/06/2024 | 14:30 - 18:30 | Madrid | 17:20 - 17:45 | <span style='color: green;'>Track 2</span> | Bridget Wu | A Quick Overview of Robot Cooking
-10/06/2024 | 14:30 - 18:30 | Madrid | 17:50 - 18:15 | <span style='color: green;'>Track 2</span> | Ali Mohammadi | Simulating Conflict Resolution in Axiomatic Theory of Design Modeling: Insights into Developing Conflict Resolution Chatbots
+10/06/2024 | 14:30 - 18:30 | Madrid | 15:10 - 15:35 | <span style='color: green;'>Track 2</span> | Tracy Jeng Yee Jong | Utilising Knowledge Graphs and Natural Language Generation to Enhance Chronic Disease Management through Personalised Recommendations
+10/06/2024 | 14:30 - 18:30 | Madrid | 15:40 - 16:05 | <span style='color: green;'>Track 2</span> | Alberto Trashaj | Advanced NLP Solutions for Enhancing the CNAF User Support
+10/06/2024 | 14:30 - 18:30 | Madrid | 16:10 - 16:35 | <span style='color: green;'>Track 2</span> | Elizabeth Trader | LegalAI for Tracking of Diagnostic Discrepancy Data for Predictive Modeling
+10/06/2024 | 14:30 - 18:30 | Madrid | 16:40 - 17:05 | <span style='color: green;'>Track 2</span> | Francesco Zangrillo | Diagnosing the Optimal Prompt Trick: A Case Study on the Effectiveness of Prompt Engineering in Medical Question Answering
+10/06/2024 | 14:30 - 18:30 | Madrid | 17:10 - 17:35 | <span style='color: green;'>Track 2</span> | Bridget Wu | A Quick Overview of Robot Cooking
+10/06/2024 | 14:30 - 18:30 | Madrid | 17:40 - 18:05 | <span style='color: green;'>Track 2</span> | Ali Mohammadi | Simulating Conflict Resolution in Axiomatic Theory of Design Modeling: Insights into Developing Conflict Resolution Chatbots
 <span style='color: red;'>10/06/2024</span> | <span style='color: red;'>19:00 - 21:00</span> | <span style='color: red;'>Coffee Break Space</span> | |<span style='color: red;'>Cocktail</span>|||
 
 Day | Timeline | Room | Time | Contribution Type | Speaker | Title
