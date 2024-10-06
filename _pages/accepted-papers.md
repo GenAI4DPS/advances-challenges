@@ -42,7 +42,7 @@ nav_order: 5
  - **Authors** - _Francesco Zangrillo_, Stefano Lodi and Gianluca Moro 
    - **Title** - Diagnosing the Optimal Prompt Trick: A Case Study on the Effectiveness of Prompt Engineering in Medical Question Answering
 
- - **Authors** - _Bridget Wu_, Cameron Jones, Ishfaq Ahmad and Addison Clark
+ - **Authors** - Bridget Wu, Cameron Jones, Ishfaq Ahmad and _Addison Clark_
    - **Title** - A Quick Overview of Robot Cooking
 
  - **Authors** - _Ali Mohammadi_ and Yong Zeng
