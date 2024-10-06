@@ -70,7 +70,7 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 10/07/2024 | 14:30 - 16:30 | Madrid | 15:00 - 15:25 | <span style='color: brown;'>Track 4</span> | Radmila Juric | Digital Twins in Dentistry: The Impact of AI Technologies
 ||||||
 10/08/2024 | 14:00 - 16:30 | Madrid | 15:30 - 15:55 | Workshop 2| Radmila Juric | AI/GenAI in Biomedicine and Healthcare: Discoveries and Knowledge Dissemination
-10/08/2024 | 14:00 - 16:30 | Madrid | 16:00 - 16:25 | Workshop 2| Varadraj Gurupur | 
+10/08/2024 | 14:00 - 16:30 | Madrid | 16:00 - 16:25 | Workshop 2| Varadraj Gurupur | Improvements in Process Design for Healthcare Ecosystem to reduce Data Incompleteness
 <span style='color: red;'>10/08/2024</span> | <span style='color: red;'>16:30 - 17:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
 10/08/2024 | 17:00 - 19:00 | Madrid | 17:00 - 17:25 | Workshop 2| Nico Curti | The Emergence of Pathomics: Artificial Intelligence Applied to Digital Histopathology
 10/08/2024 | 17:00 - 19:00 | Madrid | 17:30 - 17:55 | Workshop 2| Alessandro Costantini | INFN Approach in Handling Sensitive Data for biomedical communities
