@@ -86,7 +86,7 @@ Day | Timeline | Room | Time | Contribution Type | Speaker | Title
 <span style='color: red;'>10/09/2024</span> | <span style='color: red;'>10:30 - 11:00</span> | <span style='color: red;'>Coffee Break Space</span> || <span style='color: red;'>Coffee Break</span>||
 10/09/2024 | 11:00 - 12:00 | Madrid | 11:00 - 11:45 | Keynote Speaker  | Trevor Bihl | Artificial Intelligence and Autonomy
 ||||||
-10/09/2024 | 11:00 - 13:00 | Madrid | 11:50 - 12:15 | Malta  | neville Calleja and Lalit Garg | Discussion for SDPS 2025
+10/09/2024 | 11:00 - 13:00 | Madrid | 11:50 - 12:15 | Malta  | Neville Calleja and Lalit Garg | Discussion for SDPS 2025
 10/09/2024 | 11:00 - 13:00 | Madrid | 12:20 - 12:30 | Conference Closing | Patrick Then | Closing Ceremony
 
 
