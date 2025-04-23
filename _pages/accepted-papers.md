@@ -91,11 +91,5 @@ nav_order: 5
  - **Authors** - _Vlad Pavlovich_, Nancy Yang, Ishfaq Ahmad, Addison Clark and Hansheng Lei
    - **Title** - An Overview of Smart Glasses and Some Research Issues
 
- - **Authors** - _Radmila Juric_, Eiman Almami and Ibtesam Almami
-   - **Title** - Software Architectural Model for Creating Treatment Plans for Mental Health Symptoms
-
- - **Authors** - _Radmila Juric_ and Harvey Kalsi
-   - **Title** - Digital Twins in Dentistry: The Impact of AI Technologies
-
  - **Authors** - _Radmila Juric_, Eiman Almami, Ibtesim Almami and Boris Sever
    - **Title** - Reference Software Architecture for Defining Treatments for Mental Disorders
